@@ -1,0 +1,981 @@
+{
+  "title": "Endowments and related reported funds",
+  "checkedAsOf": "2026-10-18",
+  "currencyPolicy": "Nominal native currency; no currency conversion or inflation adjustment. Dates and accounting scope differ.",
+  "definition": "Reported university endowment totals are separate from narrow endowed funds, foundation net assets, and listed trust or estate assets. No unverified aggregate total is assigned zero.",
+  "institutions": [
+    {
+      "id": "harvard",
+      "name": "Harvard",
+      "officialName": "Harvard University",
+      "profiled": true,
+      "system": "United States",
+      "category": "endowment",
+      "categoryLabel": "Reported endowment",
+      "latest": {
+        "fiscalYear": 2026,
+        "date": "2026-06-30",
+        "reportedValue": 67962004,
+        "reportedUnit": "USD thousands",
+        "display": "$67.962 billion",
+        "headlineDisplay": "$68.0 billion",
+        "metric": "Total endowment net assets, after deferred net investment income tax liability",
+        "auditStatus": "Audited consolidated financial statements; unmodified GAAP opinion dated October 14, 2026",
+        "source": "https://finance.harvard.edu/sites/g/files/omnuum12671/files/2026-10/FY26%20Financial%20Report.pdf",
+        "sourceLocation": "Note 8, Endowment: printed page 35 (PDF page 36); HMC headline printed page 12",
+        "componentsUSD": {
+          "withoutDonorRestrictionsAfterDeferredTax": 12281199000,
+          "withDonorRestrictionsAfterDeferredTax": 55680805000,
+          "totalBeforeDeferredTax": 69386610000,
+          "deferredNetInvestmentIncomeTaxLiability": -1424606000,
+          "pledgeBalancesBeforeDeferredTax": 1382699000,
+          "interestsInTrustsHeldByOthersBeforeDeferredTax": 527917000
+        },
+        "value": 67962004000,
+        "currency": "USD",
+        "label": "Total endowment net assets, after deferred net investment income tax liability"
+      },
+      "baseline": {
+        "fiscalYear": 2021,
+        "date": "2021-06-30",
+        "reportedValue": 53165753,
+        "reportedUnit": "USD thousands",
+        "metric": "Total endowment net assets",
+        "auditStatus": "Audited comparative in FY2022 financial report",
+        "source": "https://finance.harvard.edu/file_url/353",
+        "sourceLocation": "FY2022 report, Note 8, Endowment: printed page 33 (PDF page 34), FY2021 comparative",
+        "value": 53165753000,
+        "currency": "USD",
+        "label": "Total endowment net assets"
+      },
+      "observations": [
+        {
+          "fiscalYear": 2021,
+          "date": "2021-06-30",
+          "reportedValue": 53165753,
+          "reportedUnit": "USD thousands",
+          "metric": "Total endowment net assets",
+          "auditStatus": "Audited comparative in FY2022 financial report",
+          "source": "https://finance.harvard.edu/file_url/353",
+          "sourceLocation": "FY2022 report, Note 8, Endowment: printed page 33 (PDF page 34), FY2021 comparative",
+          "value": 53165753000,
+          "currency": "USD",
+          "label": "Total endowment net assets"
+        },
+        {
+          "fiscalYear": 2022,
+          "date": "2022-06-30",
+          "reportedValue": 50877680,
+          "reportedUnit": "USD thousands",
+          "metric": "Total endowment net assets",
+          "auditStatus": "Audited consolidated financial statements",
+          "source": "https://finance.harvard.edu/file_url/353",
+          "sourceLocation": "FY2022 report, Note 8, Endowment: printed page 33 (PDF page 34)",
+          "componentsUSD": {
+            "withoutDonorRestrictions": 9057969000,
+            "withDonorRestrictions": 41819711000,
+            "pledgeBalances": 1433186000,
+            "interestsInTrustsHeldByOthers": 403626000
+          },
+          "value": 50877680000,
+          "currency": "USD",
+          "label": "Total endowment net assets"
+        },
+        {
+          "fiscalYear": 2026,
+          "date": "2026-06-30",
+          "reportedValue": 67962004,
+          "reportedUnit": "USD thousands",
+          "display": "$67.962 billion",
+          "headlineDisplay": "$68.0 billion",
+          "metric": "Total endowment net assets, after deferred net investment income tax liability",
+          "auditStatus": "Audited consolidated financial statements; unmodified GAAP opinion dated October 14, 2026",
+          "source": "https://finance.harvard.edu/sites/g/files/omnuum12671/files/2026-10/FY26%20Financial%20Report.pdf",
+          "sourceLocation": "Note 8, Endowment: printed page 35 (PDF page 36); HMC headline printed page 12",
+          "componentsUSD": {
+            "withoutDonorRestrictionsAfterDeferredTax": 12281199000,
+            "withDonorRestrictionsAfterDeferredTax": 55680805000,
+            "totalBeforeDeferredTax": 69386610000,
+            "deferredNetInvestmentIncomeTaxLiability": -1424606000,
+            "pledgeBalancesBeforeDeferredTax": 1382699000,
+            "interestsInTrustsHeldByOthersBeforeDeferredTax": 527917000
+          },
+          "value": 67962004000,
+          "currency": "USD",
+          "label": "Total endowment net assets, after deferred net investment income tax liability"
+        }
+      ],
+      "scope": "Harvard University and subsidiaries. Includes donor-restricted and board-designated funds, endowment pledges, and beneficial interests in outside trusts. FY2026 total deducts deferred investment-tax liability; the pre-tax total is separately recorded above. Pledges and trust interests are included components, not additions to the total.",
+      "caution": "Includes endowment pledges and interests in outside trusts. The FY2026 total deducts a US$1.425 billion deferred investment-tax liability; its accounting basis therefore differs from earlier totals.",
+      "details": [
+        "FY2026 reported total before the deferred tax deduction: US$69.386610 billion. Endowment pledges of US$1.382699 billion and outside trust interests of US$0.527917 billion are included components, not amounts to add.",
+        "The reported FY2021 total was US$53.165753 billion. FY2026 amounts are from the audited endowment note."
+      ],
+      "sources": [
+        {
+          "url": "https://finance.harvard.edu/sites/g/files/omnuum12671/files/2026-10/FY26%20Financial%20Report.pdf",
+          "label": "FY2026 report",
+          "location": "Note 8, Endowment: printed page 35 (PDF page 36); HMC headline printed page 12"
+        },
+        {
+          "url": "https://finance.harvard.edu/file_url/353",
+          "label": "FY2021 / FY2022 report",
+          "location": "FY2022 report, Note 8, Endowment: printed page 33 (PDF page 34), FY2021 comparative"
+        }
+      ]
+    },
+    {
+      "id": "berkeley",
+      "name": "UC Berkeley",
+      "officialName": "University of California, Berkeley",
+      "profiled": true,
+      "system": "United States",
+      "category": "endowment",
+      "categoryLabel": "Reported endowment, UCOP basis",
+      "latest": {
+        "date": "2025-06-30",
+        "fiscalYear": 2025,
+        "value": 9365068000,
+        "display": "US$9.37 billion",
+        "reportedUnits": "US dollars, thousands",
+        "reportedValue": 9365068,
+        "sourceId": "ucop-2025",
+        "printedPage": 7,
+        "pdfPage": 7,
+        "table": "3.2 Total University Endowed Assets, Berkeley row",
+        "components": {
+          "regentsForBenefitOfBerkeleyExcludingFoundationAllocations": 5970892000,
+          "foundationInvestmentsInGEP": 0,
+          "foundationInvestmentsInBGP": 0,
+          "foundationInvestmentsInSTIP": 14953000,
+          "foundationExcludingGEPBGPSTIP": 3379223000,
+          "foundationTotalIncludingSTIP": 3394176000
+        },
+        "auditStatus": "Official investment report prepared by independent consultant Mercer using campus Foundation and UC Investments data; this report is not an independent financial-statement audit opinion.",
+        "scope": "Berkeley-designated Regents assets plus Berkeley Foundation assets, without double counting Foundation allocations to Regents pools. Includes funds functioning as endowments under UCOP's reported basis. Not the UC system total.",
+        "currency": "USD",
+        "label": "Total campus endowment assets (UCOP basis)"
+      },
+      "baseline": {
+        "date": "2021-06-30",
+        "value": 6774585000,
+        "sourceId": "ucop-2022",
+        "printedPage": 3,
+        "pdfPage": 5,
+        "table": "2.1 Total University Assets, Berkeley row, June 30 2021",
+        "regents": 3850484000,
+        "foundationSTIP": 22235000,
+        "foundationExcludingGEPSTIP": 2901867000,
+        "currency": "USD",
+        "label": "Total campus endowment assets (UCOP basis)",
+        "fiscalYear": 2021
+      },
+      "observations": [
+        {
+          "date": "2021-06-30",
+          "value": 6774585000,
+          "sourceId": "ucop-2022",
+          "printedPage": 3,
+          "pdfPage": 5,
+          "table": "2.1 Total University Assets, Berkeley row, June 30 2021",
+          "regents": 3850484000,
+          "foundationSTIP": 22235000,
+          "foundationExcludingGEPSTIP": 2901867000,
+          "currency": "USD",
+          "label": "Total campus endowment assets (UCOP basis)",
+          "fiscalYear": 2021
+        },
+        {
+          "date": "2022-06-30",
+          "value": 6909085000,
+          "sourceId": "ucop-2022",
+          "printedPage": 3,
+          "pdfPage": 5,
+          "table": "2.1 Total University Assets, Berkeley row, June 30 2022",
+          "regents": 4260815000,
+          "foundationSTIP": 6950000,
+          "foundationExcludingGEPSTIP": 2641320000,
+          "currency": "USD",
+          "label": "Total campus endowment assets (UCOP basis)",
+          "fiscalYear": 2022
+        },
+        {
+          "date": "2023-06-30",
+          "value": 7374903000,
+          "sourceId": "ucop-2024",
+          "printedPage": 7,
+          "pdfPage": 7,
+          "table": "3.2 Total University Endowed Assets, prior-year Berkeley row",
+          "currency": "USD",
+          "label": "Total campus endowment assets (UCOP basis)",
+          "fiscalYear": 2023
+        },
+        {
+          "date": "2024-06-30",
+          "value": 8880937000,
+          "sourceId": "ucop-2025",
+          "printedPage": 7,
+          "pdfPage": 7,
+          "table": "3.2 Total University Endowed Assets, prior-year Berkeley row",
+          "currency": "USD",
+          "label": "Total campus endowment assets (UCOP basis)",
+          "fiscalYear": 2024
+        },
+        {
+          "date": "2025-06-30",
+          "fiscalYear": 2025,
+          "value": 9365068000,
+          "display": "US$9.37 billion",
+          "reportedUnits": "US dollars, thousands",
+          "reportedValue": 9365068,
+          "sourceId": "ucop-2025",
+          "printedPage": 7,
+          "pdfPage": 7,
+          "table": "3.2 Total University Endowed Assets, Berkeley row",
+          "components": {
+            "regentsForBenefitOfBerkeleyExcludingFoundationAllocations": 5970892000,
+            "foundationInvestmentsInGEP": 0,
+            "foundationInvestmentsInBGP": 0,
+            "foundationInvestmentsInSTIP": 14953000,
+            "foundationExcludingGEPBGPSTIP": 3379223000,
+            "foundationTotalIncludingSTIP": 3394176000
+          },
+          "auditStatus": "Official investment report prepared by independent consultant Mercer using campus Foundation and UC Investments data; this report is not an independent financial-statement audit opinion.",
+          "scope": "Berkeley-designated Regents assets plus Berkeley Foundation assets, without double counting Foundation allocations to Regents pools. Includes funds functioning as endowments under UCOP's reported basis. Not the UC system total.",
+          "currency": "USD",
+          "label": "Total campus endowment assets (UCOP basis)"
+        }
+      ],
+      "scope": "Berkeley-designated Regents assets plus Berkeley Foundation assets, without double counting Foundation allocations to Regents pools. Includes funds functioning as endowments under UCOP's reported basis. Not the UC system total.",
+      "caution": "UCOP added the Blue & Gold Pool to its reported assets from FY2024. The FY2021 and FY2025 bars therefore have different scope. Berkeley also publishes an alternative US$8.5 billion headline for the same 2025 date; the full reconciliation is not supplied.",
+      "details": [
+        "UCOP FY2025: US$5.970892 billion held by the Regents for Berkeley; US$3.379223 billion in Foundation assets outside Regents pools; US$0.014953 billion in Foundation short-term pool investments. The components sum to US$9.365068 billion, without double counting.",
+        "The campus article’s US$8.5 billion splits into roughly US$5.1 billion Regents-held and US$3.4 billion Foundation-held. This companion retains UCOP’s explicit campus basis at both dates, with its later scope change visible.",
+        "FY2024–25 was the latest annual endowment report listed on the UCOP index when checked. This is not a June 2026 campus valuation."
+      ],
+      "sources": [
+        {
+          "url": "https://ucop.edu/investment-office/investment-reports/annual-reports/annual-endowment-report-2024-25.pdf",
+          "label": "UCOP FY2025 report",
+          "location": "p. 7"
+        },
+        {
+          "url": "https://ucop.edu/investment-office/investment-reports/annual-reports/uc-investments-annual-endowment-report-fy-2021-2022-public-final.pdf",
+          "label": "UCOP FY2022 report",
+          "location": "p. 3"
+        },
+        {
+          "url": "https://www.ucop.edu/investment-office/investment-reports/annual-reports/annual-endwoment-report-fy-2023-2024.pdf",
+          "label": "UCOP scope change",
+          "location": "p. 4"
+        },
+        {
+          "url": "https://inspire.berkeley.edu/o/new-berkeley-endowment-management-company-president-and-cio-to-guide-uc-berkeley-investments/",
+          "label": "Alternative campus figure",
+          "location": ""
+        }
+      ],
+      "comparableAggregateEndowmentVerified": true
+    },
+    {
+      "id": "duke",
+      "name": "Duke",
+      "officialName": "Duke University",
+      "profiled": true,
+      "system": "United States",
+      "category": "endowment",
+      "categoryLabel": "Reported endowment",
+      "latest": {
+        "fiscalYear": 2026,
+        "date": "2026-06-30",
+        "reportedValue": 14279301,
+        "reportedUnit": "USD thousands",
+        "display": "$14.279 billion",
+        "metric": "Total university endowment, including perpetual trusts held by others",
+        "auditStatus": "Audited consolidated financial statements; KPMG unmodified opinion dated September 29, 2026. Use audited Note 9, rather than treating statistical highlights as independently audited.",
+        "source": "https://resources.finance.duke.edu/resources/docs/Financial_Reports2025-26.pdf",
+        "sourceLanding": "https://finance.duke.edu/resource/fiscal-year-20252026-financial-statements/",
+        "sourceLocation": "Note 9, Endowment: printed page 26 (PDF page 28); Statistical Highlights printed page 9 (PDF page 11)",
+        "componentsUSD": {
+          "boardDesignated": 3793664000,
+          "donorRestrictedEndowmentFunds": 9129871000,
+          "perpetualTrustsHeldByOthers": 1355766000,
+          "donorRestrictedIncludingPerpetualTrusts": 10485637000
+        },
+        "value": 14279301000,
+        "currency": "USD",
+        "label": "Total university endowment, including perpetual trusts held by others"
+      },
+      "baseline": {
+        "fiscalYear": 2021,
+        "date": "2021-06-30",
+        "reportedValue": 12692472,
+        "reportedUnit": "USD thousands",
+        "metric": "Total university endowment, including perpetual trusts held by others",
+        "auditStatus": "Audited comparative in FY2022 financial report",
+        "source": "https://resources.finance.duke.edu/resources/docs/Financial_Reports2021-22.pdf",
+        "sourceLocation": "FY2022 report, Note 9, Endowment: printed pages 28-29 (PDF pages 30-31), FY2021 comparative",
+        "componentsUSD": {
+          "boardDesignated": 3790836000,
+          "donorRestrictedEndowmentFunds": 7648695000,
+          "perpetualTrustsHeldByOthers": 1252941000
+        },
+        "value": 12692472000,
+        "currency": "USD",
+        "label": "Total university endowment, including perpetual trusts held by others"
+      },
+      "observations": [
+        {
+          "fiscalYear": 2021,
+          "date": "2021-06-30",
+          "reportedValue": 12692472,
+          "reportedUnit": "USD thousands",
+          "metric": "Total university endowment, including perpetual trusts held by others",
+          "auditStatus": "Audited comparative in FY2022 financial report",
+          "source": "https://resources.finance.duke.edu/resources/docs/Financial_Reports2021-22.pdf",
+          "sourceLocation": "FY2022 report, Note 9, Endowment: printed pages 28-29 (PDF pages 30-31), FY2021 comparative",
+          "componentsUSD": {
+            "boardDesignated": 3790836000,
+            "donorRestrictedEndowmentFunds": 7648695000,
+            "perpetualTrustsHeldByOthers": 1252941000
+          },
+          "value": 12692472000,
+          "currency": "USD",
+          "label": "Total university endowment, including perpetual trusts held by others"
+        },
+        {
+          "fiscalYear": 2022,
+          "date": "2022-06-30",
+          "reportedValue": 12116260,
+          "reportedUnit": "USD thousands",
+          "metric": "Total university endowment, including perpetual trusts held by others",
+          "auditStatus": "Audited consolidated financial statements",
+          "source": "https://resources.finance.duke.edu/resources/docs/Financial_Reports2021-22.pdf",
+          "sourceLocation": "FY2022 report, Note 9, Endowment: printed pages 28-29 (PDF pages 30-31)",
+          "componentsUSD": {
+            "boardDesignated": 3563034000,
+            "donorRestrictedEndowmentFunds": 7349073000,
+            "perpetualTrustsHeldByOthers": 1204153000
+          },
+          "value": 12116260000,
+          "currency": "USD",
+          "label": "Total university endowment, including perpetual trusts held by others"
+        },
+        {
+          "fiscalYear": 2026,
+          "date": "2026-06-30",
+          "reportedValue": 14279301,
+          "reportedUnit": "USD thousands",
+          "display": "$14.279 billion",
+          "metric": "Total university endowment, including perpetual trusts held by others",
+          "auditStatus": "Audited consolidated financial statements; KPMG unmodified opinion dated September 29, 2026. Use audited Note 9, rather than treating statistical highlights as independently audited.",
+          "source": "https://resources.finance.duke.edu/resources/docs/Financial_Reports2025-26.pdf",
+          "sourceLanding": "https://finance.duke.edu/resource/fiscal-year-20252026-financial-statements/",
+          "sourceLocation": "Note 9, Endowment: printed page 26 (PDF page 28); Statistical Highlights printed page 9 (PDF page 11)",
+          "componentsUSD": {
+            "boardDesignated": 3793664000,
+            "donorRestrictedEndowmentFunds": 9129871000,
+            "perpetualTrustsHeldByOthers": 1355766000,
+            "donorRestrictedIncludingPerpetualTrusts": 10485637000
+          },
+          "value": 14279301000,
+          "currency": "USD",
+          "label": "Total university endowment, including perpetual trusts held by others"
+        }
+      ],
+      "scope": "University endowment includes donor-restricted funds, board-designated funds, and beneficial interests in perpetual trusts held by others. The independent charity named The Duke Endowment is a distinct entity; do not add its entire asset pool. DUMAC also manages non-endowment assets, which are excluded here.",
+      "caution": "Includes US$1.356 billion of interests in perpetual trusts held by others. The separate charitable foundation named The Duke Endowment is not the university endowment.",
+      "details": [
+        "FY2026: US$9.129871 billion donor-restricted endowment funds; US$3.793664 billion board-designated funds; US$1.355766 billion perpetual-trust interests. These sum to the reported university total.",
+        "DUMAC also manages assets outside this endowment measure. The chart uses the university financial statements, not all DUMAC assets."
+      ],
+      "sources": [
+        {
+          "url": "https://resources.finance.duke.edu/resources/docs/Financial_Reports2025-26.pdf",
+          "label": "FY2026 report",
+          "location": "Note 9, Endowment: printed page 26 (PDF page 28); Statistical Highlights printed page 9 (PDF page 11)"
+        },
+        {
+          "url": "https://resources.finance.duke.edu/resources/docs/Financial_Reports2021-22.pdf",
+          "label": "FY2021 / FY2022 report",
+          "location": "FY2022 report, Note 9, Endowment: printed pages 28-29 (PDF pages 30-31), FY2021 comparative"
+        }
+      ]
+    },
+    {
+      "id": "humboldt",
+      "name": "Humboldt / Berlin",
+      "officialName": "Humboldt / University of Berlin",
+      "profiled": true,
+      "system": "Germany",
+      "category": "partial-fund",
+      "categoryLabel": "Listed funds, partial",
+      "latest": {
+        "value": 3540187.4,
+        "currency": "EUR",
+        "date": null,
+        "dateLabel": "FY2023 actual, reported in 2025 budget",
+        "fiscalYear": 2023,
+        "label": "Listed trust and estate cash assets",
+        "components": {},
+        "scope": "Chapter HU01011 reports cash assets of named non-independent trusts, bequests, and inheritances; source is the 2023 financial accounts."
+      },
+      "observations": [
+        {
+          "value": 3540187.4,
+          "currency": "EUR",
+          "date": null,
+          "dateLabel": "FY2023 actual, reported in 2025 budget",
+          "fiscalYear": 2023,
+          "label": "Listed trust and estate cash assets",
+          "components": {},
+          "scope": "Chapter HU01011 reports cash assets of named non-independent trusts, bequests, and inheritances; source is the 2023 financial accounts."
+        }
+      ],
+      "scope": "Chapter HU01011 reports cash assets of named non-independent trusts, bequests, and inheritances; source is the 2023 financial accounts. This covers the modern Humboldt university’s listed funds, not the historical University of Berlin’s complete finances.",
+      "caution": "Partial cash-only figure for FY2023. An aggregate university endowment was not verified. The official table is search-indexed; direct access currently presents a challenge, and a newer total was not verified.",
+      "details": [
+        "This is explicitly cash assets of named trusts/estates, not the university’s consolidated permanent investment corpus.",
+        "The separate Stiftung Humboldt-Universität supports HU and accepts gifts to permanent capital; its assets must not be assumed to be included in this cash table.",
+        "The Alexander von Humboldt Foundation is a separate national research-support organization and must not be used as HU’s endowment.",
+        "The Gerd Rodenwaldt trust assets are shown in Free Berlin’s budget; HU receives half of annual interest under an agreement. Do not add half of those principal assets to HU or double-count across institutions.",
+        "The official budget index currently requires login and direct downloads return a challenge. No 2026 budget or 2024 actual trust-capital total could be independently verified."
+      ],
+      "sources": [
+        {
+          "url": "https://www.haushaltsabteilung.hu-berlin.de/de/haushaltswirtschaft/haushaltsplanung/hu_haushaltsplan-2025.pdf",
+          "label": "2025 budget",
+          "location": "p. 40"
+        }
+      ],
+      "comparableAggregateEndowmentVerified": false,
+      "comparableAggregateEndowmentValue": null
+    },
+    {
+      "id": "free-berlin",
+      "name": "Free Berlin",
+      "officialName": "Free University Berlin",
+      "profiled": true,
+      "system": "Germany",
+      "category": "partial-fund",
+      "categoryLabel": "Listed funds, partial",
+      "latest": {
+        "value": 11528465,
+        "currency": "EUR",
+        "date": null,
+        "dateLabel": "FY2022 actual, reported in 2024/25 budget",
+        "fiscalYear": 2022,
+        "label": "Listed foundation and estate financial assets",
+        "components": {
+          "cashAssets": 963410,
+          "securitiesAssets": 10565055
+        },
+        "scope": "Chapter 03 lists non-independent foundations and restricted/unrestricted estate assets administered by Free Berlin."
+      },
+      "observations": [
+        {
+          "value": 11528465,
+          "currency": "EUR",
+          "date": null,
+          "dateLabel": "FY2022 actual, reported in 2024/25 budget",
+          "fiscalYear": 2022,
+          "label": "Listed foundation and estate financial assets",
+          "components": {
+            "cashAssets": 963410,
+            "securitiesAssets": 10565055
+          },
+          "scope": "Chapter 03 lists non-independent foundations and restricted/unrestricted estate assets administered by Free Berlin."
+        }
+      ],
+      "scope": "Chapter 03 lists non-independent foundations and restricted/unrestricted estate assets administered by Free Berlin. The displayed total is calculated as €963,410 cash plus €10,565,055 securities.",
+      "caution": "Partial figure for FY2022, reported in a later budget. Includes expendable estate assets and does not isolate a permanent endowment corpus. A newer valuation was not verified.",
+      "details": [
+        "This chapter combines foundations with bequests and estates, including freely expendable estate assets; a permanent-investment-only amount is not isolated.",
+        "The observation is FY2022 even though the reporting budget is for 2024/2025. It is not a 2025 or 2026 valuation.",
+        "This is an identified partial asset category, not all assets of the university or all legally separate supporting organizations.",
+        "No newer publicly accessible foundation/estate asset valuation was verified after searching official finance pages and current budget references."
+      ],
+      "sources": [
+        {
+          "url": "https://www.fu-berlin.de/sites/abt-2/finanzen/2a1/content/2024-01-10-Haushaltsplan-FUB-2024_2025.pdf",
+          "label": "2024/25 budget",
+          "location": "PDF p. 46"
+        }
+      ],
+      "comparableAggregateEndowmentVerified": false,
+      "comparableAggregateEndowmentValue": null
+    },
+    {
+      "id": "tsinghua",
+      "name": "Tsinghua",
+      "officialName": "Tsinghua University",
+      "profiled": true,
+      "system": "China",
+      "category": "foundation-net-assets",
+      "categoryLabel": "Foundation net assets",
+      "latest": {
+        "value": 18404739195.07,
+        "currency": "CNY",
+        "date": "2025-12-31",
+        "dateLabel": null,
+        "fiscalYear": 2025,
+        "label": "Education Foundation net assets",
+        "components": {
+          "restrictedNetAssets": 15705136307.17,
+          "unrestrictedNetAssets": 2699602887.9
+        },
+        "scope": "Tsinghua University Education Foundation balance-sheet net assets, not consolidated university wealth."
+      },
+      "observations": [
+        {
+          "value": 18404739195.07,
+          "currency": "CNY",
+          "date": "2025-12-31",
+          "dateLabel": null,
+          "fiscalYear": 2025,
+          "label": "Education Foundation net assets",
+          "components": {
+            "restrictedNetAssets": 15705136307.17,
+            "unrestrictedNetAssets": 2699602887.9
+          },
+          "scope": "Tsinghua University Education Foundation balance-sheet net assets, not consolidated university wealth."
+        }
+      ],
+      "scope": "Tsinghua University Education Foundation balance-sheet net assets, not consolidated university wealth. Includes restricted and unrestricted net assets of the named foundation.",
+      "caution": "Foundation net assets are not a verified university endowment. Restrictions can relate to projects or time periods; the statements do not establish that all capital must be preserved permanently.",
+      "details": [
+        "Restricted and unrestricted net assets are accounting categories, not a split into permanent endowment versus expendable funds.",
+        "The foundation explicitly maintains both principal-retaining funds and other funds. No 2025 total permanent corpus was verified.",
+        "Neither foundation net assets nor its total investments can be relabeled university endowment. Do not assume overseas foundations are consolidated.",
+        "No verified comparable 2021/2022 permanent-endowment anchor was located."
+      ],
+      "sources": [
+        {
+          "url": "https://www.tuef.tsinghua.edu.cn/qinghuadaxuejiaoyujijinhui2025niandushenjibaogao.pdf",
+          "label": "2025 audited accounts",
+          "location": "PDF p. 4"
+        },
+        {
+          "url": "https://www.tuef.tsinghua.edu.cn/qinghuadaxuejiaoyujijinhui2025niandugongzuobaogao.pdf",
+          "label": "2025 annual report",
+          "location": "p. 36"
+        }
+      ],
+      "comparableAggregateEndowmentVerified": false,
+      "comparableAggregateEndowmentValue": null
+    },
+    {
+      "id": "nanjing",
+      "name": "Nanjing",
+      "officialName": "Nanjing University",
+      "profiled": true,
+      "system": "China",
+      "category": "foundation-net-assets",
+      "categoryLabel": "Foundation net assets",
+      "latest": {
+        "value": 1693222804.24,
+        "currency": "CNY",
+        "date": "2025-12-31",
+        "dateLabel": null,
+        "fiscalYear": 2025,
+        "label": "Education Development Foundation net assets",
+        "components": {
+          "restrictedNetAssets": 1207322882.28,
+          "unrestrictedNetAssets": 485899921.96
+        },
+        "scope": "Nanjing University Education Development Foundation balance-sheet net assets, not consolidated university wealth."
+      },
+      "observations": [
+        {
+          "value": 1693222804.24,
+          "currency": "CNY",
+          "date": "2025-12-31",
+          "dateLabel": null,
+          "fiscalYear": 2025,
+          "label": "Education Development Foundation net assets",
+          "components": {
+            "restrictedNetAssets": 1207322882.28,
+            "unrestrictedNetAssets": 485899921.96
+          },
+          "scope": "Nanjing University Education Development Foundation balance-sheet net assets, not consolidated university wealth."
+        }
+      ],
+      "scope": "Nanjing University Education Development Foundation balance-sheet net assets, not consolidated university wealth. Includes restricted and unrestricted net assets of the named foundation.",
+      "caution": "Foundation net assets are not a verified university endowment. Restrictions can relate to projects or time periods; the statements do not establish that all capital must be preserved permanently.",
+      "details": [
+        "The audited balance sheet does not identify an aggregate permanent investment corpus.",
+        "Restricted funds may be earmarked for projects or time periods; do not treat all restricted net assets as perpetual endowment.",
+        "The registration original fund and annual donations are different measures and are excluded from the endowment figure.",
+        "No verified comparable 2021/2022 permanent-endowment anchor was located."
+      ],
+      "sources": [
+        {
+          "url": "https://njuedf.nju.edu.cn/_upload/article/files/7d/3b/110e7d6246b49192090f8dd93cf6/877e6ac8-2a2f-4b25-863c-3ef1c0f94f98.pdf",
+          "label": "2025 audited accounts",
+          "location": "PDF p. 3"
+        },
+        {
+          "url": "https://njuedf.nju.edu.cn/bb/f0/c4444a834544/page.htm",
+          "label": "Audit publication",
+          "location": ""
+        }
+      ],
+      "comparableAggregateEndowmentVerified": false,
+      "comparableAggregateEndowmentValue": null
+    },
+    {
+      "id": "hku",
+      "name": "Hong Kong (HKU)",
+      "officialName": "The University of Hong Kong",
+      "profiled": true,
+      "system": "Hong Kong",
+      "category": "partial-fund",
+      "categoryLabel": "Specific endowed fund only",
+      "latest": {
+        "date": "2025-06-30",
+        "fiscalYear": 2025,
+        "value": 2433326000,
+        "display": "HK$2.433 billion",
+        "reportedUnits": "Hong Kong dollars, thousands",
+        "reportedValue": 2433326,
+        "sourceId": "hku-2025",
+        "printedPage": 63,
+        "pdfPage": 65,
+        "table": "Note 11 Restricted Funds, Group and University, General Endowment Fund column",
+        "auditStatus": "Included in audited consolidated financial statements. KPMG auditor's report dated September 30, 2025; opinion states true and fair view under HKFRS.",
+        "scope": "Named General Endowment Fund, with identical Group and University balance. This is not established as the total market value of all donor endowments or all assets managed in investment pools.",
+        "currency": "HKD",
+        "label": "General Endowment Fund (specific reported fund)"
+      },
+      "baseline": {
+        "date": "2021-06-30",
+        "value": 2632853000,
+        "sourceId": "hku-2022",
+        "printedPage": 61,
+        "pdfPage": 63,
+        "table": "Note 10 Restricted Funds, Group, General Endowment Fund column; University table on next page agrees",
+        "currency": "HKD",
+        "label": "General Endowment Fund (specific reported fund)",
+        "fiscalYear": 2021
+      },
+      "observations": [
+        {
+          "date": "2021-06-30",
+          "value": 2632853000,
+          "sourceId": "hku-2022",
+          "printedPage": 61,
+          "pdfPage": 63,
+          "table": "Note 10 Restricted Funds, Group, General Endowment Fund column; University table on next page agrees",
+          "currency": "HKD",
+          "label": "General Endowment Fund (specific reported fund)",
+          "fiscalYear": 2021
+        },
+        {
+          "date": "2022-06-30",
+          "value": 2179490000,
+          "sourceId": "hku-2022",
+          "printedPage": 61,
+          "pdfPage": 63,
+          "table": "Note 10 Restricted Funds, Group, General Endowment Fund column; University table on next page agrees",
+          "auditStatus": "PricewaterhouseCoopers auditor's report dated September 27, 2022",
+          "currency": "HKD",
+          "label": "General Endowment Fund (specific reported fund)",
+          "fiscalYear": 2022
+        },
+        {
+          "date": "2024-06-30",
+          "value": 2221871000,
+          "sourceId": "hku-2025",
+          "printedPage": 63,
+          "pdfPage": 65,
+          "table": "Note 11 Restricted Funds, General Endowment Fund column",
+          "currency": "HKD",
+          "label": "General Endowment Fund (specific reported fund)",
+          "fiscalYear": 2024
+        },
+        {
+          "date": "2025-06-30",
+          "fiscalYear": 2025,
+          "value": 2433326000,
+          "display": "HK$2.433 billion",
+          "reportedUnits": "Hong Kong dollars, thousands",
+          "reportedValue": 2433326,
+          "sourceId": "hku-2025",
+          "printedPage": 63,
+          "pdfPage": 65,
+          "table": "Note 11 Restricted Funds, Group and University, General Endowment Fund column",
+          "auditStatus": "Included in audited consolidated financial statements. KPMG auditor's report dated September 30, 2025; opinion states true and fair view under HKFRS.",
+          "scope": "Named General Endowment Fund, with identical Group and University balance. This is not established as the total market value of all donor endowments or all assets managed in investment pools.",
+          "currency": "HKD",
+          "label": "General Endowment Fund (specific reported fund)"
+        }
+      ],
+      "scope": "Named General Endowment Fund, with identical Group and University balance. This is not established as the total market value of all donor endowments or all assets managed in investment pools. The accounts describe it as long-term capital whose income supports recurring spending and preservation of real capital value.",
+      "caution": "Partial fund only. The aggregate market value of all HKU donor endowments was not verified. Total investments, total restricted funds, and total university net assets are not substituted for that missing total.",
+      "details": [
+        "The General Endowment Fund is one named column in the audited restricted-funds note. Its balance is identical in the Group and University tables.",
+        "The University Grants Committee treats investment income as assumed income when determining the block grant. The accounts describe discretionary use for activities outside block-grant financing.",
+        "Financial Report 2025 was the latest report linked by HKU’s Finance and Enterprises Office when checked. No FY2025–26 accounts were located there."
+      ],
+      "sources": [
+        {
+          "url": "https://www.feo.hku.hk/finance/information/annualreport/pdf/Financial_Report_2025.pdf",
+          "label": "HKU 2025 accounts",
+          "location": "note 11, p. 63; policy p. 39"
+        },
+        {
+          "url": "https://www.feo.hku.hk/finance/information/annualreport/pdf/Financial_Report_2022.pdf",
+          "label": "HKU 2022 accounts",
+          "location": "note 10, p. 61"
+        }
+      ],
+      "comparableAggregateEndowmentVerified": false
+    },
+    {
+      "id": "mit",
+      "name": "MIT",
+      "officialName": "Massachusetts Institute of Technology",
+      "profiled": false,
+      "system": "United States",
+      "category": "endowment",
+      "categoryLabel": "Reported endowment",
+      "latest": {
+        "fiscalYear": 2026,
+        "date": "2026-06-30",
+        "reportedValue": 29200026,
+        "reportedUnit": "USD thousands",
+        "display": "$29.200 billion",
+        "headlineDisplay": "$29.2 billion",
+        "metric": "Endowment funds, before pledges (MIT headline endowment market value)",
+        "auditStatus": "Audited consolidated financial statements; unmodified GAAP opinion dated October 2, 2026",
+        "source": "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2026.pdf",
+        "sourceLocation": "Table 27A, 2026 Total Net Asset Composition: printed page 44 (PDF page 47); tax policy printed page 46 (PDF page 49)",
+        "announcementSource": "https://news.mit.edu/2026/mit-releases-financials-and-endowment-figures-1002",
+        "componentsUSD": {
+          "withoutDonorRestrictionsBeforePledges": 8672749000,
+          "withDonorRestrictionsBeforePledges": 20527277000,
+          "pledgesExcludedFromHeadline": 175558000,
+          "totalEndowmentIncludingPledges": 29375584000
+        },
+        "value": 29200026000,
+        "currency": "USD",
+        "label": "Endowment funds, before pledges (MIT headline endowment market value)"
+      },
+      "baseline": {
+        "fiscalYear": 2021,
+        "date": "2021-06-30",
+        "reportedValue": 27394039,
+        "reportedUnit": "USD thousands",
+        "metric": "Endowment funds, before pledges",
+        "auditStatus": "Audited comparative in FY2022 financial report",
+        "source": "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2022.pdf",
+        "sourceLocation": "FY2022 report, Table 27B, 2021 Total Net Asset Composition (PDF page 47); Statistical Highlights (PDF page 51)",
+        "componentsUSD": {
+          "withoutDonorRestrictionsBeforePledges": 8028079000,
+          "withDonorRestrictionsBeforePledges": 19365960000,
+          "pledgesExcludedFromHeadline": 133165000,
+          "totalEndowmentIncludingPledges": 27527204000
+        },
+        "value": 27394039000,
+        "currency": "USD",
+        "label": "Endowment funds, before pledges"
+      },
+      "observations": [
+        {
+          "fiscalYear": 2021,
+          "date": "2021-06-30",
+          "reportedValue": 27394039,
+          "reportedUnit": "USD thousands",
+          "metric": "Endowment funds, before pledges",
+          "auditStatus": "Audited comparative in FY2022 financial report",
+          "source": "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2022.pdf",
+          "sourceLocation": "FY2022 report, Table 27B, 2021 Total Net Asset Composition (PDF page 47); Statistical Highlights (PDF page 51)",
+          "componentsUSD": {
+            "withoutDonorRestrictionsBeforePledges": 8028079000,
+            "withDonorRestrictionsBeforePledges": 19365960000,
+            "pledgesExcludedFromHeadline": 133165000,
+            "totalEndowmentIncludingPledges": 27527204000
+          },
+          "value": 27394039000,
+          "currency": "USD",
+          "label": "Endowment funds, before pledges"
+        },
+        {
+          "fiscalYear": 2022,
+          "date": "2022-06-30",
+          "reportedValue": 24600809,
+          "reportedUnit": "USD thousands",
+          "metric": "Endowment funds, before pledges",
+          "auditStatus": "Audited consolidated financial statements",
+          "source": "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2022.pdf",
+          "sourceLocation": "FY2022 report, Table 27A, 2022 Total Net Asset Composition (PDF page 46); Statistical Highlights (PDF page 51)",
+          "announcementSource": "https://news.mit.edu/2022/endowment-2022-1007",
+          "componentsUSD": {
+            "withoutDonorRestrictionsBeforePledges": 7152758000,
+            "withDonorRestrictionsBeforePledges": 17448051000,
+            "pledgesExcludedFromHeadline": 139053000,
+            "totalEndowmentIncludingPledges": 24739862000
+          },
+          "value": 24600809000,
+          "currency": "USD",
+          "label": "Endowment funds, before pledges"
+        },
+        {
+          "fiscalYear": 2026,
+          "date": "2026-06-30",
+          "reportedValue": 29200026,
+          "reportedUnit": "USD thousands",
+          "display": "$29.200 billion",
+          "headlineDisplay": "$29.2 billion",
+          "metric": "Endowment funds, before pledges (MIT headline endowment market value)",
+          "auditStatus": "Audited consolidated financial statements; unmodified GAAP opinion dated October 2, 2026",
+          "source": "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2026.pdf",
+          "sourceLocation": "Table 27A, 2026 Total Net Asset Composition: printed page 44 (PDF page 47); tax policy printed page 46 (PDF page 49)",
+          "announcementSource": "https://news.mit.edu/2026/mit-releases-financials-and-endowment-figures-1002",
+          "componentsUSD": {
+            "withoutDonorRestrictionsBeforePledges": 8672749000,
+            "withDonorRestrictionsBeforePledges": 20527277000,
+            "pledgesExcludedFromHeadline": 175558000,
+            "totalEndowmentIncludingPledges": 29375584000
+          },
+          "value": 29200026000,
+          "currency": "USD",
+          "label": "Endowment funds, before pledges (MIT headline endowment market value)"
+        }
+      ],
+      "scope": "MIT and wholly owned subsidiaries. Includes donor-restricted endowment and board-designated funds functioning as endowment. The headline market value excludes pledges. MIT's pooled investments contain additional non-endowed funds and are not the endowment total. In FY2026, endowment-related excise tax is paid from unrestricted non-endowed assets.",
+      "caution": "MIT reports its headline endowment before pledges; Harvard includes endowment pledges. This is a comparison of reported measures, with each institution’s basis retained.",
+      "details": [
+        "FY2026 reported funds before pledges: US$29.200026 billion. Including US$0.175558 billion of pledges, the endowment total would be US$29.375584 billion. Both chart dates consistently exclude pledges.",
+        "MIT pays endowment-related excise tax from unrestricted non-endowed assets under the FY2026 policy. Its broader pooled investments include non-endowed funds and are excluded here."
+      ],
+      "sources": [
+        {
+          "url": "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2026.pdf",
+          "label": "FY2026 report",
+          "location": "Table 27A, 2026 Total Net Asset Composition: printed page 44 (PDF page 47); tax policy printed page 46 (PDF page 49)"
+        },
+        {
+          "url": "https://vpf.mit.edu/sites/default/files/downloads/TreasurersReport/MITTreasurersReport2022.pdf",
+          "label": "FY2021 / FY2022 report",
+          "location": "FY2022 report, Table 27B, 2021 Total Net Asset Composition (PDF page 47); Statistical Highlights (PDF page 51)"
+        }
+      ]
+    },
+    {
+      "id": "caltech",
+      "name": "Caltech",
+      "officialName": "California Institute of Technology",
+      "profiled": false,
+      "system": "United States",
+      "category": "endowment",
+      "categoryLabel": "Reported endowment",
+      "latest": {
+        "fiscalYear": 2025,
+        "date": "2025-09-30",
+        "reportedValue": 4488,
+        "reportedUnit": "USD millions",
+        "reportedPrecisionUSD": 1000000,
+        "display": "$4.488 billion",
+        "metric": "Total endowment portfolio: endowment investment pool plus separately invested endowments",
+        "auditStatus": "Investment Office endowment performance report; this figure has not been verified against the independently audited financial statements",
+        "source": "https://investments.caltech.edu/documents/34559/Caltech_Endowment_Report_FY25_Final_Pages.pdf",
+        "sourceLocation": "FY2025 Endowment Report: CIO letter dated March 2026, printed page 2; Growth of Total Endowment Portfolio chart",
+        "sourceLanding": "https://giving.caltech.edu/ways-to-give-caltech/name-an-endowment/caltech-endowment-report-fy25",
+        "currentReportIndex": "https://investments.caltech.edu/",
+        "value": 4488000000,
+        "currency": "USD",
+        "label": "Total endowment portfolio: endowment investment pool plus separately invested endowments"
+      },
+      "baseline": {
+        "fiscalYear": 2021,
+        "date": "2021-09-30",
+        "reportedValue": 4068,
+        "reportedUnit": "USD millions",
+        "reportedPrecisionUSD": 1000000,
+        "metric": "Total endowment portfolio: endowment investment pool plus separately invested endowments",
+        "auditStatus": "Investment Office performance report, historical chart; not verified as an audited financial-statement figure",
+        "source": "https://investments.caltech.edu/documents/25425/Caltech_Endowment_Brochure_FY22_SinglePages.pdf",
+        "sourceLocation": "FY2022 report, Growth of Total Endowment chart, printed page 4 (PDF page 5), FY2021 point",
+        "value": 4068000000,
+        "currency": "USD",
+        "label": "Total endowment portfolio: endowment investment pool plus separately invested endowments"
+      },
+      "observations": [
+        {
+          "fiscalYear": 2021,
+          "date": "2021-09-30",
+          "reportedValue": 4068,
+          "reportedUnit": "USD millions",
+          "reportedPrecisionUSD": 1000000,
+          "metric": "Total endowment portfolio: endowment investment pool plus separately invested endowments",
+          "auditStatus": "Investment Office performance report, historical chart; not verified as an audited financial-statement figure",
+          "source": "https://investments.caltech.edu/documents/25425/Caltech_Endowment_Brochure_FY22_SinglePages.pdf",
+          "sourceLocation": "FY2022 report, Growth of Total Endowment chart, printed page 4 (PDF page 5), FY2021 point",
+          "value": 4068000000,
+          "currency": "USD",
+          "label": "Total endowment portfolio: endowment investment pool plus separately invested endowments"
+        },
+        {
+          "fiscalYear": 2022,
+          "date": "2022-09-30",
+          "reportedValue": 3454,
+          "reportedUnit": "USD millions",
+          "reportedPrecisionUSD": 1000000,
+          "metric": "Total endowment portfolio: endowment investment pool plus separately invested endowments",
+          "auditStatus": "Investment Office performance report; not verified as an audited financial-statement figure",
+          "source": "https://investments.caltech.edu/documents/25425/Caltech_Endowment_Brochure_FY22_SinglePages.pdf",
+          "sourceLocation": "FY2022 report, Growth of Total Endowment chart, printed page 4 (PDF page 5)",
+          "value": 3454000000,
+          "currency": "USD",
+          "label": "Total endowment portfolio: endowment investment pool plus separately invested endowments"
+        },
+        {
+          "fiscalYear": 2025,
+          "date": "2025-09-30",
+          "reportedValue": 4488,
+          "reportedUnit": "USD millions",
+          "reportedPrecisionUSD": 1000000,
+          "display": "$4.488 billion",
+          "metric": "Total endowment portfolio: endowment investment pool plus separately invested endowments",
+          "auditStatus": "Investment Office endowment performance report; this figure has not been verified against the independently audited financial statements",
+          "source": "https://investments.caltech.edu/documents/34559/Caltech_Endowment_Report_FY25_Final_Pages.pdf",
+          "sourceLocation": "FY2025 Endowment Report: CIO letter dated March 2026, printed page 2; Growth of Total Endowment Portfolio chart",
+          "sourceLanding": "https://giving.caltech.edu/ways-to-give-caltech/name-an-endowment/caltech-endowment-report-fy25",
+          "currentReportIndex": "https://investments.caltech.edu/",
+          "value": 4488000000,
+          "currency": "USD",
+          "label": "Total endowment portfolio: endowment investment pool plus separately invested endowments"
+        }
+      ],
+      "scope": "Use the investment office's total endowment portfolio consistently for both anchors and latest. It includes the investment pool and separately invested endowments. Do not substitute the office's broader assets under management (endowment, trusts, and other assets). A donor-restricted versus board-designated breakdown was not verified for this chosen portfolio metric.",
+      "caution": "Latest verified report is FY2025, ending September 30, 2025. No FY2026 endowment report was located by the check date.",
+      "details": [
+        "Investment Office performance report, with values reported to the nearest US$1 million. The figure has not been reconciled here to the audited financial-statement endowment note.",
+        "Both dates use the total endowment portfolio, including the investment pool and separately invested endowments. Broader assets under management are excluded."
+      ],
+      "sources": [
+        {
+          "url": "https://investments.caltech.edu/documents/34559/Caltech_Endowment_Report_FY25_Final_Pages.pdf",
+          "label": "FY2025 report",
+          "location": "FY2025 Endowment Report: CIO letter dated March 2026, printed page 2; Growth of Total Endowment Portfolio chart"
+        },
+        {
+          "url": "https://investments.caltech.edu/documents/25425/Caltech_Endowment_Brochure_FY22_SinglePages.pdf",
+          "label": "FY2021 / FY2022 report",
+          "location": "FY2022 report, Growth of Total Endowment chart, printed page 4 (PDF page 5), FY2021 point"
+        }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "title": "Scale is only part of the story",
+      "text": "Harvard’s reported endowment is far larger than the other U.S. cases. Restrictions, annual distributions, and funding commitments determine how much of that capital can support a new choice."
+    },
+    {
+      "title": "A financial history needs definitions",
+      "text": "Berkeley’s broader reporting scope, Harvard’s deferred tax provision, and differing pledge and trust treatment affect comparisons. Read the dated values as reported balances, rather than a single measure of investment performance."
+    }
+  ]
+}
