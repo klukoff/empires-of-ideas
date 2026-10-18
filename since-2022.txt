@@ -1,0 +1,213 @@
+EMPIRES OF IDEAS: SINCE 2022
+Checked October 18, 2026
+
+Selective update with dated evidence and interpretation kept separate.
+
+RANKING COMPARISON
+The July 2022 book predates the August 2022 ranking edition. Default baseline: 2021, with 2022 as an alternative.
+
+Harvard University: 2021 1; 2022 1; 2026 1. Source: https://www.shanghairanking.com/universities/harvard-university
+University of California, Berkeley: 2021 5; 2022 5; 2026 5. Source: https://www.shanghairanking.com/universities/university-of-california-berkeley
+Duke University: 2021 32; 2022 31; 2026 48. Source: https://www.shanghairanking.com/universities/duke-university
+Humboldt University of Berlin: 2021 not published; 2022 not published; 2026 not published. Source: https://www.shanghairanking.com/universities/humboldt-university-of-berlin
+Free University Berlin: 2021 not published; 2022 not published; 2026 not published. Source: https://www.shanghairanking.com/universities/free-university-berlin
+Tsinghua University: 2021 28; 2022 26; 2026 18. Source: https://www.shanghairanking.com/universities/tsinghua-university
+Nanjing University: 2021 101-150; 2022 101-150; 2026 70. Source: https://www.shanghairanking.com/universities/nanjing-university
+The University of Hong Kong: 2021 101-150; 2022 96; 2026 62. Source: https://www.shanghairanking.com/universities/the-university-of-hong-kong
+Massachusetts Institute of Technology: 2021 4; 2022 3; 2026 3. Source: https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit
+California Institute of Technology: 2021 9; 2022 9; 2026 10. Source: https://www.shanghairanking.com/universities/california-institute-of-technology
+
+Ranks are relative positions. Published bands remain bands. Berlin’s absent ranks do not imply institutional stagnation.
+
+1. Autonomy became a funding fight in the United States
+Harvard; 2025–October 2026
+
+In the book: Harvard’s wealth, decentralized governance, and ability to renew itself are central to the case.
+
+Later evidence: A September 2025 district-court order vacated federal funding freezes and terminations. Harvard reported resumed payments; the appeal was argued on October 5, 2026. Its October 15 financial report described a $100 million FY2026 operating surplus that combined an approximately $80 million unrestricted deficit with a $180 million restricted surplus. A September 2026 initiative committed another $150 million to research.
+
+Interpretation: The university’s research position remains strong, but access to flexible money and protection from external control have become immediate operational questions. National context is insufficient protection against political intervention.
+
+Limits/current status: The litigation is not established as finally resolved: no final appellate merits outcome after the October 5 hearing was verified. Multiyear terminated-award totals are not permanent annual losses. The $150 million is a commitment, not proof that every award has been spent. Financial figures are Harvard’s reported results.
+
+Discussion question: Does Harvard’s experience change the weight we give autonomy relative to money and capable presidents?
+
+District-court order, September 3, 2025
+https://www.harvard.edu/federal-lawsuits/wp-content/uploads/sites/17/2025/09/gov.uscourts.mad_.283718.238.0_1.pdf
+Payments restored, October 2025
+https://news.harvard.edu/gazette/story/2025/10/harvard-reports-operating-deficit-amid-federal-funding-cuts/
+First Circuit hearing listing, case 25-2230
+https://www.ca1.uscourts.gov/doar/search-results
+FY2026 results, October 15, 2026
+https://news.harvard.edu/gazette/story/2026/10/our-focus-has-been-on-resiliency/
+$150m research initiative, September 2026
+https://news.harvard.edu/gazette/story/2026/09/harvard-launches-150-million-research-initiative/
+
+--------------------------------------------------
+
+2. Berkeley’s financial puzzle has new moving parts
+UC Berkeley; 2024–September 2026
+
+In the book: The Berkeley chapter joins research excellence and a public mission to funding constraints and the stadium-financing problem.
+
+Later evidence: In September 2026, Berkeley’s CFO reported costs growing faster than revenues, $28 million of identified potential savings, and $6 million already removed from expenses. Its Chancellor’s Fund had secured five startup investments. Athletics also entered a different regime: Cal joined the ACC in August 2024, and athletics reported a full $20.5 million athlete revenue-sharing allocation in January 2026.
+
+Interpretation: The old funding problem persists alongside new ways to seek revenue and new athletics obligations. Owning startup equity brings a different kind of risk from dependable appropriations or tuition income.
+
+Limits/current status: Startup returns are variable. Identified savings are not all realized. The latest outstanding stadium principal was not verified, so the book’s original borrowing is not presented as today’s debt balance. Later conference and athlete-pay changes do not establish who was responsible for the original stadium assumptions.
+
+Discussion question: What would count as a sustainable public-university funding model, and which risks should students, employees, donors, or taxpayers carry?
+
+Berkeley CFO, September 18, 2026
+https://cfo.berkeley.edu/news/path-financial-sustainability-berkeley
+UC Regents athletics briefing, September 2024
+https://regents.universityofcalifornia.edu/regmeet/sept24/s2.pdf
+Athlete revenue sharing, January 2026
+https://calbears.com/news/2026/1/30/athletics-news-jenny-and-jays-journal
+
+--------------------------------------------------
+
+3. Central capacity now supports both cuts and research pivots
+Duke; 2025–2026
+
+In the book: Duke illustrates strategic planning and the capacity to redirect resources across a university.
+
+Later evidence: Duke’s September 2025 Academic Council minutes describe an eventual $350 million annual-savings target, taking two to five years to reach fully, with just under 600 staff accepting voluntary separation. Its 2026 Research Pivot Awards offer up to $150,000 for 12 months to eligible faculty outside Medicine: the Provost supplies 75% and the unit 25%, to help redirect work after federal-priority shifts.
+
+Interpretation: Duke’s central funding arrangements provide a concrete example of adaptation. They also raise questions about who chooses priorities and who bears retrenchment.
+
+Limits/current status: The $350 million is a phased target, not a fully realized one-year saving. The award program’s terms establish a mechanism; they do not establish how many awards were funded or whether replacement grants followed.
+
+Discussion question: How should we judge centralization when its use shifts from building new institutes to protecting or cutting existing work?
+
+Academic Council minutes, September 25, 2025
+https://academiccouncil.duke.edu/sites/default/files/09-25-25-AC-Meeting-Minutes-FINAL.pdf
+Research Pivot Awards, 2026 program
+https://research.duke.edu/research-pivot-awards/
+
+--------------------------------------------------
+
+4. Research excellence and operating pressure coexist in Berlin
+Humboldt + Free Berlin; March 2026 / 2026 budget
+
+In the book: The German cases explore political damage, institutional recovery, fragmented governance, and greater cooperation.
+
+Later evidence: On March 11, 2026, the Berlin University Alliance, including both profiled institutions, secured continued Excellence Strategy funding for 2027–2033. At the same time, Free Berlin’s current 2026 budget page reports a €42.79 million shortfall and 10% reductions in departmental and central-institute personnel funds, following a revised state funding settlement.
+
+Interpretation: Berlin’s alliance is an active research strategy even though the individual universities lack ARWU ranks. A favorable excellence review can coexist with operating constraints that affect the university’s ability to act.
+
+Limits/current status: The renewed funding period is prospective. The shortfall and personnel-fund measures are Free Berlin’s reports, not an audited research-output effect or a claim about every German university. A 10% departmental personnel-budget reduction is not a statement that all employees’ salaries fell 10%.
+
+Discussion question: Does the alliance model solve a problem that an institution-by-institution ranking fails to describe?
+
+Alliance renewal, March 11, 2026
+https://www.berlin-university-alliance.de/en/items/2026/260310-exzellenzstrategie.html
+Free Berlin’s 2026 budget measures
+https://www.fu-berlin.de/sites/haushaltskuerzungen-berliner-senat/haushaltskuerzungen/index.html
+Revised funding contracts, September 2025
+https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1598308.php
+
+--------------------------------------------------
+
+5. Technical expansion continued after publication
+Tsinghua + Nanjing; July 2023 / April 2024
+
+In the book: Tsinghua’s general-education ambitions and Nanjing’s shift toward applied fields create tensions between breadth, distinctiveness, and research ambition.
+
+Later evidence: Nanjing’s Suzhou campus welcomed its first 500 undergraduates in July 2023 across four new schools in intelligent science, software, integrated circuits, and digital economy/management. Tsinghua established its College of AI in April 2024. Both institutions subsequently occupy higher ARWU positions than in the pre-publication comparison.
+
+Interpretation: These developments continue the technical institution-building Kirby described. The later research ascent leaves open which outcomes require broad education; no withdrawal of broad education was established here.
+
+Limits/current status: The Suzhou project began before publication; its opening is the later event. A new college or campus does not prove a breakthrough, and its timing cannot establish that it caused a rank change. No comparable university research-budget growth series was verified for these two cases.
+
+Discussion question: Is technical expansion a productive response to opportunity, or does the ranking system encourage institutions to converge on the same mission?
+
+Nanjing: inaugural Suzhou cohort
+https://www.nju.edu.cn/en/info/1057/6661.htm
+Tsinghua: College of AI
+https://collegeai.tsinghua.edu.cn/en/About_Us/Introduction.htm
+
+--------------------------------------------------
+
+6. Hong Kong adds a funding constraint to the autonomy question
+HKU + Hong Kong sector; 2022–23 through 2025–28
+
+In the book: Kirby already describes the 2020 National Security Law and 2021 restrictions, alongside HKU’s comparatively strong public funding. Those events predate publication.
+
+Later evidence: HKU curriculum guidance documents a mandatory constitution and national-security course from 2022–23. In June 2024, the government established a group to investigate and study HKU’s internal operational affairs. The 2025–28 sector settlement introduced cumulative 2% annual efficiency reductions, approximately HK$2.8 billion relative to calculated requirements, plus a one-off HK$4 billion reserve return. It also allocated HK$1.5 billion for targeted research matching.
+
+Interpretation: HKU’s improved research rank now sits alongside further formal governance interventions and a more constrained funding settlement. The comparison is broader than a choice between well-funded China and underfunded America.
+
+Limits/current status: The money figures are sector-wide and relative to calculated requirements. They do not establish lower nominal funding than the previous triennium or a decline in all HKU income. Formal requirements do not quantify inquiry in every laboratory or classroom. The government described its group as addressing coordination and public-funding accountability; these official sources do not independently establish its effects on freedom.
+
+Discussion question: When does public accountability support a university, and when can it become a way to control its priorities?
+
+HKU curriculum requirements
+https://www.scifac.hku.hk/current/ug/about/bsc/curriculum
+Government study group, June 11, 2024
+https://www.info.gov.hk/gia/general/202406/11/P2024061100489.htm
+UGC funding settlement, February 26, 2025
+https://www.info.gov.hk/gia/general/202502/26/P2025022600365.htm
+
+--------------------------------------------------
+
+7. The national public-funding picture is mixed
+U.S. public sector; FY2025 / report April 2026
+
+In the book: State disinvestment is central to the book’s account of the pressures on American public universities.
+
+Later evidence: SHEEO’s FY2025 report finds inflation-adjusted education appropriations per full-time-equivalent student down 1.0% from 2024, after twelve consecutive increases. They nevertheless remained 16.4% above 2019. State and local education appropriations reached a record $130.7 billion in this dataset, while twenty-four states remained below their 2008 per-student funding levels.
+
+Interpretation: A new epilogue needs to distinguish federal research instability, state funding, student enrollment, and net tuition. They are different revenue streams and can move in different directions.
+
+Limits/current status: These are national public-sector averages, not Berkeley’s finances and not spending at private Harvard or Duke. Total appropriations, per-student support, and federal research grants have different denominators and scopes. The report published in 2026 describes FY2025.
+
+Discussion question: If public support recovered in aggregate, why do some institutions remain financially insecure?
+
+SHEEO FY2025 findings, April 9, 2026
+https://sheeo.org/shef_fy25_release/
+Full report and state variation
+https://shef.sheeo.org/report/
+
+--------------------------------------------------
+
+8. Low trust persists, with a partial rebound rather than a straight decline
+U.S. public attitudes; July + October 2026
+
+In the book: The conclusion addresses public support and state disinvestment, while chapter 4 discusses education as a public or private good.
+
+Later evidence: Gallup’s confidence series records 36% expressing a great deal or quite a lot of confidence in 2023 and 2024, 42% in 2025, and 38% in 2026; the earlier 2018 figure was 48%. A separate October 2026 report finds 31% saying college education is very important, compared with 51% in 2019.
+
+Interpretation: The later surveys put public legitimacy alongside research performance as a distinct outcome. Confidence partly recovered from its post-publication low; perceived importance measures a separate attitude.
+
+Limits/current status: The displayed confidence series has no 2022 observation, so there is no exact publication-year trust estimate. These sector attitudes are not evaluations of the eight universities, and the two survey questions should not be combined into one trend.
+
+Discussion question: What would a university owe to people who will never attend it, and which public would recognize improvement?
+
+Confidence trend, July 13, 2026
+https://news.gallup.com/poll/712322/confidence-higher-education-slips-back-slightly.aspx
+Perceived importance, October 1, 2026
+https://news.gallup.com/poll/715133/record-low-say-college-education-important.aspx
+
+--------------------------------------------------
+
+9. AI gives the educational-purpose question a new practical test
+Education across systems; 2023 guidance / 2025 survey
+
+In the book: The book’s defense of broad education predates the later adoption of generative AI in everyday coursework.
+
+Later evidence: UNESCO issued its first global generative-AI guidance for education and research in September 2023. An April 2026 Lumina–Gallup report, based on October 2025 responses, finds 57% of surveyed U.S. associate- and bachelor’s-degree students using AI for coursework at least weekly.
+
+Interpretation: An updated book would need to consider what students should learn to do independently, which kinds of judgment education should develop, and how teaching fits a research-centered account of university greatness.
+
+Limits/current status: The 3,801 students were recruited through an opt-in panel; usage is self-reported. This is a U.S. undergraduate survey, not a global adoption estimate or evidence that AI improves learning. The survey observation year is 2025, although publication was in 2026.
+
+Discussion question: Does AI strengthen the case for broad education, change which technical skills matter, or demand a different account of both?
+
+UNESCO guidance, September 7, 2023
+https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
+Lumina–Gallup student survey, April 1, 2026
+https://news.gallup.com/poll/704090/routine-college-students-despite-campus-limits.aspx
+
+--------------------------------------------------
+

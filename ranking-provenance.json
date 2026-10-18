@@ -1,0 +1,4825 @@
+{
+  "title": "ARWU histories for the eight universities profiled in Empires of Ideas",
+  "ranking": "Academic Ranking of World Universities (ARWU)",
+  "publisher": "ShanghaiRanking Consultancy; Shanghai Jiao Tong University at inception",
+  "retrieved": "2026-10-18",
+  "startYear": 2003,
+  "endYear": 2026,
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "methodology": {
+    "url": "https://www.shanghairanking.com/methodology/arwu/2026",
+    "label": "ARWU 2026 official methodology",
+    "choice": "A single research-heavy ranking series keeps the chart internally consistent. These are ARWU results, not a reconstruction of the book’s figures and not an all-purpose quality score.",
+    "weights2026": [
+      {
+        "code": "Alumni",
+        "label": "Alumni Nobel Prizes / Fields Medals",
+        "weight": 10
+      },
+      {
+        "code": "Award",
+        "label": "Staff Nobel Prizes / Fields Medals",
+        "weight": 20
+      },
+      {
+        "code": "HiCi",
+        "label": "Highly cited researchers",
+        "weight": 20
+      },
+      {
+        "code": "N&S",
+        "label": "Papers in Nature and Science",
+        "weight": 20
+      },
+      {
+        "code": "PUB",
+        "label": "Papers indexed in SCIE / SSCI",
+        "weight": 20
+      },
+      {
+        "code": "PCP",
+        "label": "Per capita performance",
+        "weight": 10
+      }
+    ],
+    "interpretation": "40% is directly labeled Research Output; citation strength adds 20%, academic prizes add 30%, and per capita performance adds 10%. None is a direct measure of classroom teaching, liberal-arts breadth, academic freedom, public trust, affordability, or social mobility.",
+    "validation": "All 240 institution-year records were cross-checked between official institution histories and the official annual ranking-table payloads. All published ranks agree. 196 published values and 44 unpublished values; 10 institutions × 24 years.",
+    "extraction": "Downloaded official public institution pages and their linked public static data payloads. Decoded the website’s data containers and retained each ranking string verbatim. Independently checked all years against each annual table. No values inferred from alphabetical ordering or source-provided averageRanking."
+  },
+  "evidenceLimits": [
+    "ARWU starts in 2003. It cannot measure the nineteenth-century German or twentieth-century American ascendancy described in the book.",
+    "Rank is ordinal and relative. A move from 100 to 50 does not establish a doubling in research quality or output.",
+    "Published rank bands are intervals, not exact points. Preserve rankMin/rankMax and show bands. Do not use their midpoint as an observed rank.",
+    "The annual rankings are not a fixed measurement instrument: indicators, time windows, sources, normalization, and coverage can change. The 2026 weights should not be retroactively assigned to 2003.",
+    "Modern institutional boundaries and research location matter: important German research occurs in institutes outside universities, while Berlin’s successor and hospital affiliations complicate historical comparison.",
+    "MIT and Caltech are contextual comparators only; Kirby does not profile them as cases. Their high ranks do not on their own test the causal necessity of liberal education.",
+    "Ranking strength does not establish educational breadth, institutional freedom, innovation in all senses, societal benefit, or public trust. This dataset cannot settle causal claims about any of those.",
+    "The Berlin gaps mean no overall rank published in the checked official records. Do not interpret them as poor performance."
+  ],
+  "supplementarySources": [
+    {
+      "id": "berlin-gap",
+      "title": "DFG / Wissenschaftsrat: Bericht zur Exzellenzinitiative (June 2015)",
+      "url": "https://www.gwk-bonn.de/fileadmin/Redaktion/Dokumente/Papers/DFG-WR-Bericht-Juni2015.pdf",
+      "pageIndex": 810,
+      "note": "DFG/WR report, June 2015, printed page 37 (PDF page 811), footnote 9: explains the absence through competing claims to succeed pre-war Berlin University and inability to divide Nobel Prizes. Exact page verified from the PDF text.",
+      "pdfPage": 811,
+      "printedPage": 37
+    },
+    {
+      "id": "profile-selection",
+      "title": "Kirby, Empires of Ideas (2022), Introduction",
+      "url": null,
+      "note": "Lists the eight case universities: Berlin/Humboldt, Free Berlin, Harvard, Berkeley, Duke, Tsinghua, Nanjing, HKU."
+    }
+  ],
+  "institutions": [
+    {
+      "id": "harvard",
+      "name": "Harvard",
+      "officialName": "Harvard University",
+      "region": "United States",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/harvard-university/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 68.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 98.6,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 60.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 72.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 73.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 73
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 74.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 74.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 69.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 70.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 71.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 72.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 75.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 76.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 79.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 79.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 79.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 78.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 79.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 100,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 80.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 96.8,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 84.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 92.6,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 86.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 97.1,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 100,
+            "Score on PCP": 85.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 96.2,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 96.8,
+            "Score on PCP": 84.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "1",
+          "rankMin": 1,
+          "rankMax": 1,
+          "status": "exact",
+          "score": 100,
+          "indicators": {
+            "Total Score": 100,
+            "Score on Alumni": 100,
+            "Score on Award": 96.2,
+            "Score on HiCi": 100,
+            "Score on N&S": 100,
+            "Score on PUB": 91.8,
+            "Score on PCP": 83.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/harvard-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#df8583",
+      "group": "United States",
+      "profile": {
+        "id": "harvard",
+        "name": "Harvard University",
+        "country": "United States",
+        "chapter": 5,
+        "role": "The wealthy incumbent: its decentralized schools and stellar faculty sustain preeminence while governance, internal renewal, engineering ambitions and strategic coordination prove difficult.",
+        "tension": "Enormous resources cushion errors and institutional inertia; high overall rank can coexist with weak planning or specific disciplinary gaps.",
+        "sources": [
+          {
+            "chapter": "Chapter 5",
+            "lines": "199–225"
+          },
+          {
+            "chapter": "Chapter 5",
+            "lines": "237–245"
+          },
+          {
+            "chapter": "Chapter 5",
+            "lines": "295–299"
+          },
+          {
+            "chapter": "Conclusion: Lessons and Prospects",
+            "lines": "87–89"
+          }
+        ]
+      },
+      "question": "Does wealth protect excellence, or protect an institution from the consequences of its mistakes?"
+    },
+    {
+      "id": "berkeley",
+      "name": "UC Berkeley",
+      "officialName": "University of California, Berkeley",
+      "region": "United States",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/university-of-california-berkeley/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 74,
+          "indicators": {
+            "Total Score": 74,
+            "Score on Award": 75,
+            "Score on HiCi": 70.3,
+            "Score on N&S": 76.1,
+            "Score on PUB": 72.8,
+            "Score on PCP": 51.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 74.2,
+          "indicators": {
+            "Total Score": 74.2,
+            "Score on Alumni": 70,
+            "Score on Award": 76,
+            "Score on HiCi": 74.1,
+            "Score on N&S": 75.6,
+            "Score on PUB": 72.7,
+            "Score on PCP": 45.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 72.8,
+          "indicators": {
+            "Total Score": 72.8,
+            "Score on Alumni": 71.8,
+            "Score on Award": 76,
+            "Score on HiCi": 69.4,
+            "Score on N&S": 73.9,
+            "Score on PUB": 72.2,
+            "Score on PCP": 52.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 72.1,
+          "indicators": {
+            "Total Score": 72.1,
+            "Score on Alumni": 70.6,
+            "Score on Award": 74.5,
+            "Score on HiCi": 70.5,
+            "Score on N&S": 72.2,
+            "Score on PUB": 71.9,
+            "Score on PCP": 53.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 71.9,
+          "indicators": {
+            "Total Score": 71.9,
+            "Score on Alumni": 72.5,
+            "Score on Award": 77.1,
+            "Score on HiCi": 67.9,
+            "Score on N&S": 72.9,
+            "Score on PUB": 69.2,
+            "Score on PCP": 52.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 71.4,
+          "indicators": {
+            "Total Score": 71.4,
+            "Score on Alumni": 69,
+            "Score on Award": 77.1,
+            "Score on HiCi": 68.8,
+            "Score on N&S": 70.6,
+            "Score on PUB": 70,
+            "Score on PCP": 53
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 71,
+          "indicators": {
+            "Total Score": 71,
+            "Score on Alumni": 67.4,
+            "Score on Award": 77.1,
+            "Score on HiCi": 68.4,
+            "Score on N&S": 71.1,
+            "Score on PUB": 69,
+            "Score on PCP": 53.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "2",
+          "rankMin": 2,
+          "rankMax": 2,
+          "status": "exact",
+          "score": 72.4,
+          "indicators": {
+            "Total Score": 72.4,
+            "Score on Alumni": 67.6,
+            "Score on Award": 79.3,
+            "Score on HiCi": 69,
+            "Score on N&S": 70.9,
+            "Score on PUB": 70.6,
+            "Score on PCP": 54.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 71.9,
+          "indicators": {
+            "Total Score": 71.9,
+            "Score on Alumni": 68.3,
+            "Score on Award": 79.3,
+            "Score on HiCi": 70,
+            "Score on N&S": 69.5,
+            "Score on PUB": 69.4,
+            "Score on PCP": 53.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 71.6,
+          "indicators": {
+            "Total Score": 71.6,
+            "Score on Alumni": 67.5,
+            "Score on Award": 80.9,
+            "Score on HiCi": 69.7,
+            "Score on N&S": 68.5,
+            "Score on PUB": 68.1,
+            "Score on PCP": 53.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 71.3,
+          "indicators": {
+            "Total Score": 71.3,
+            "Score on Alumni": 67.8,
+            "Score on Award": 79,
+            "Score on HiCi": 69.7,
+            "Score on N&S": 68.5,
+            "Score on PUB": 68.1,
+            "Score on PCP": 54.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 70.1,
+          "indicators": {
+            "Total Score": 70.1,
+            "Score on Alumni": 66.8,
+            "Score on Award": 79.4,
+            "Score on HiCi": 65.3,
+            "Score on N&S": 67.5,
+            "Score on PUB": 68.1,
+            "Score on PCP": 55.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 69.6,
+          "indicators": {
+            "Total Score": 69.6,
+            "Score on Alumni": 65.1,
+            "Score on Award": 79.4,
+            "Score on HiCi": 66.1,
+            "Score on N&S": 65.6,
+            "Score on PUB": 67.9,
+            "Score on PCP": 56.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 70.1,
+          "indicators": {
+            "Total Score": 70.1,
+            "Score on Alumni": 65.1,
+            "Score on Award": 79.4,
+            "Score on HiCi": 64.9,
+            "Score on N&S": 68.7,
+            "Score on PUB": 68.4,
+            "Score on PCP": 59
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 69.1,
+          "indicators": {
+            "Total Score": 69.1,
+            "Score on Alumni": 64.4,
+            "Score on Award": 78.4,
+            "Score on HiCi": 63.6,
+            "Score on N&S": 68.1,
+            "Score on PUB": 66.7,
+            "Score on PCP": 58.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 68.3,
+          "indicators": {
+            "Total Score": 68.3,
+            "Score on Alumni": 65.6,
+            "Score on Award": 78.4,
+            "Score on HiCi": 61.3,
+            "Score on N&S": 67.8,
+            "Score on PUB": 65.1,
+            "Score on PCP": 58.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 67.9,
+          "indicators": {
+            "Total Score": 67.9,
+            "Score on Alumni": 67.1,
+            "Score on Award": 78.4,
+            "Score on HiCi": 58.7,
+            "Score on N&S": 68.5,
+            "Score on PUB": 64.7,
+            "Score on PCP": 57.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 65.8,
+          "indicators": {
+            "Total Score": 65.8,
+            "Score on Alumni": 64.9,
+            "Score on Award": 76.7,
+            "Score on HiCi": 53.3,
+            "Score on N&S": 68.5,
+            "Score on PUB": 63.4,
+            "Score on PCP": 56
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 66,
+          "indicators": {
+            "Total Score": 66,
+            "Score on Alumni": 63.8,
+            "Score on Award": 80,
+            "Score on HiCi": 57.4,
+            "Score on N&S": 64.8,
+            "Score on PUB": 61.3,
+            "Score on PCP": 55.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 65.3,
+          "indicators": {
+            "Total Score": 65.3,
+            "Score on Alumni": 65.4,
+            "Score on Award": 80,
+            "Score on HiCi": 53.8,
+            "Score on N&S": 63.9,
+            "Score on PUB": 60.2,
+            "Score on PCP": 57.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 63.4,
+          "indicators": {
+            "Total Score": 63.4,
+            "Score on Alumni": 65.8,
+            "Score on Award": 76.5,
+            "Score on HiCi": 52.6,
+            "Score on N&S": 64.3,
+            "Score on PUB": 53.1,
+            "Score on PCP": 57.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 62,
+          "indicators": {
+            "Total Score": 62,
+            "Score on Alumni": 65.3,
+            "Score on Award": 76.5,
+            "Score on HiCi": 46.9,
+            "Score on N&S": 62.8,
+            "Score on PUB": 57.1,
+            "Score on PCP": 55.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 61.8,
+          "indicators": {
+            "Total Score": 61.8,
+            "Score on Alumni": 66.6,
+            "Score on Award": 74.9,
+            "Score on HiCi": 47,
+            "Score on N&S": 64,
+            "Score on PUB": 54.1,
+            "Score on PCP": 53.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 64.5,
+          "indicators": {
+            "Total Score": 64.5,
+            "Score on Alumni": 67.4,
+            "Score on Award": 78.4,
+            "Score on HiCi": 53.5,
+            "Score on N&S": 64.7,
+            "Score on PUB": 52,
+            "Score on PCP": 53.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/university-of-california-berkeley",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#dfbd70",
+      "group": "United States",
+      "profile": {
+        "id": "berkeley",
+        "name": "University of California, Berkeley",
+        "country": "United States",
+        "chapter": 6,
+        "role": "The public flagship: outstanding research, access and faculty culture face declining state support, constrained revenues, administrative conflict and expensive nonacademic commitments.",
+        "tension": "Public mission, public control and public funding no longer align neatly; democratic faculty participation can support excellent hiring and impede painful resource decisions.",
+        "sources": [
+          {
+            "chapter": "Chapter 6",
+            "lines": "15–19"
+          },
+          {
+            "chapter": "Chapter 6",
+            "lines": "81–109"
+          },
+          {
+            "chapter": "Chapter 6",
+            "lines": "137–161"
+          },
+          {
+            "chapter": "Chapter 6",
+            "lines": "209"
+          }
+        ]
+      },
+      "question": "What funding settlement could sustain both research strength and a credible public mission?"
+    },
+    {
+      "id": "duke",
+      "name": "Duke",
+      "officialName": "Duke University",
+      "region": "United States",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/duke-university/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "32",
+          "rankMin": 32,
+          "rankMax": 32,
+          "status": "exact",
+          "score": 40.4,
+          "indicators": {
+            "Total Score": 40.4,
+            "Score on Award": 0,
+            "Score on HiCi": 42.3,
+            "Score on N&S": 44.6,
+            "Score on PUB": 60.8,
+            "Score on PCP": 41.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "31",
+          "rankMin": 31,
+          "rankMax": 31,
+          "status": "exact",
+          "score": 38.9,
+          "indicators": {
+            "Total Score": 38.9,
+            "Score on Alumni": 20.9,
+            "Score on Award": 0,
+            "Score on HiCi": 48.6,
+            "Score on N&S": 46.8,
+            "Score on PUB": 62.7,
+            "Score on PCP": 36.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "32",
+          "rankMin": 32,
+          "rankMax": 32,
+          "status": "exact",
+          "score": 37.7,
+          "indicators": {
+            "Total Score": 37.7,
+            "Score on Alumni": 20.8,
+            "Score on Award": 0,
+            "Score on HiCi": 47.1,
+            "Score on N&S": 45.3,
+            "Score on PUB": 60.8,
+            "Score on PCP": 38.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "31",
+          "rankMin": 31,
+          "rankMax": 31,
+          "status": "exact",
+          "score": 38.2,
+          "indicators": {
+            "Total Score": 38.2,
+            "Score on Alumni": 20.1,
+            "Score on Award": 0,
+            "Score on HiCi": 48,
+            "Score on N&S": 45.4,
+            "Score on PUB": 62.4,
+            "Score on PCP": 40.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "32",
+          "rankMin": 32,
+          "rankMax": 32,
+          "status": "exact",
+          "score": 37.4,
+          "indicators": {
+            "Total Score": 37.4,
+            "Score on Alumni": 19.5,
+            "Score on Award": 0,
+            "Score on HiCi": 46.9,
+            "Score on N&S": 43.6,
+            "Score on PUB": 62,
+            "Score on PCP": 39.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "32",
+          "rankMin": 32,
+          "rankMax": 32,
+          "status": "exact",
+          "score": 37.2,
+          "indicators": {
+            "Total Score": 37.2,
+            "Score on Alumni": 18.6,
+            "Score on Award": 0,
+            "Score on HiCi": 46.1,
+            "Score on N&S": 42.6,
+            "Score on PUB": 63.4,
+            "Score on PCP": 39.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "31",
+          "rankMin": 31,
+          "rankMax": 31,
+          "status": "exact",
+          "score": 37.1,
+          "indicators": {
+            "Total Score": 37.1,
+            "Score on Alumni": 18.1,
+            "Score on Award": 0,
+            "Score on HiCi": 47,
+            "Score on N&S": 41.7,
+            "Score on PUB": 63,
+            "Score on PCP": 40
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "35",
+          "rankMin": 35,
+          "rankMax": 35,
+          "status": "exact",
+          "score": 35.3,
+          "indicators": {
+            "Total Score": 35.3,
+            "Score on Alumni": 17.7,
+            "Score on Award": 0,
+            "Score on HiCi": 45.8,
+            "Score on N&S": 42.2,
+            "Score on PUB": 62,
+            "Score on PCP": 24.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "35",
+          "rankMin": 35,
+          "rankMax": 35,
+          "status": "exact",
+          "score": 35.1,
+          "indicators": {
+            "Total Score": 35.1,
+            "Score on Alumni": 17.6,
+            "Score on Award": 0,
+            "Score on HiCi": 47,
+            "Score on N&S": 40.9,
+            "Score on PUB": 62.5,
+            "Score on PCP": 22
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "36",
+          "rankMin": 36,
+          "rankMax": 36,
+          "status": "exact",
+          "score": 35.2,
+          "indicators": {
+            "Total Score": 35.2,
+            "Score on Alumni": 16.3,
+            "Score on Award": 0,
+            "Score on HiCi": 46.5,
+            "Score on N&S": 42.1,
+            "Score on PUB": 62.7,
+            "Score on PCP": 22.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "31",
+          "rankMin": 31,
+          "rankMax": 31,
+          "status": "exact",
+          "score": 38.1,
+          "indicators": {
+            "Total Score": 38.1,
+            "Score on Alumni": 16,
+            "Score on Award": 15,
+            "Score on HiCi": 46.5,
+            "Score on N&S": 42.8,
+            "Score on PUB": 61.6,
+            "Score on PCP": 22.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "31",
+          "rankMin": 31,
+          "rankMax": 31,
+          "status": "exact",
+          "score": 38.4,
+          "indicators": {
+            "Total Score": 38.4,
+            "Score on Alumni": 15.8,
+            "Score on Award": 14.9,
+            "Score on HiCi": 50.2,
+            "Score on N&S": 40.6,
+            "Score on PUB": 61.9,
+            "Score on PCP": 23.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "31",
+          "rankMin": 31,
+          "rankMax": 31,
+          "status": "exact",
+          "score": 38,
+          "indicators": {
+            "Total Score": 38,
+            "Score on Alumni": 15.4,
+            "Score on Award": 14.9,
+            "Score on HiCi": 50.2,
+            "Score on N&S": 39,
+            "Score on PUB": 61.7,
+            "Score on PCP": 23.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "25",
+          "rankMin": 25,
+          "rankMax": 25,
+          "status": "exact",
+          "score": 40.4,
+          "indicators": {
+            "Total Score": 40.4,
+            "Score on Alumni": 15.4,
+            "Score on Award": 19.2,
+            "Score on HiCi": 57.1,
+            "Score on N&S": 38.9,
+            "Score on PUB": 62.1,
+            "Score on PCP": 25.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "26",
+          "rankMin": 26,
+          "rankMax": 26,
+          "status": "exact",
+          "score": 41,
+          "indicators": {
+            "Total Score": 41,
+            "Score on Alumni": 15.2,
+            "Score on Award": 19,
+            "Score on HiCi": 61.7,
+            "Score on N&S": 37.8,
+            "Score on PUB": 61.5,
+            "Score on PCP": 26.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "26",
+          "rankMin": 26,
+          "rankMax": 26,
+          "status": "exact",
+          "score": 39.7,
+          "indicators": {
+            "Total Score": 39.7,
+            "Score on Alumni": 15.2,
+            "Score on Award": 19,
+            "Score on HiCi": 55.9,
+            "Score on N&S": 35.6,
+            "Score on PUB": 63.9,
+            "Score on PCP": 25.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "28",
+          "rankMin": 28,
+          "rankMax": 28,
+          "status": "exact",
+          "score": 38.6,
+          "indicators": {
+            "Total Score": 38.6,
+            "Score on Alumni": 14.8,
+            "Score on Award": 19,
+            "Score on HiCi": 49.2,
+            "Score on N&S": 36.2,
+            "Score on PUB": 64.9,
+            "Score on PCP": 24.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "27",
+          "rankMin": 27,
+          "rankMax": 27,
+          "status": "exact",
+          "score": 39.2,
+          "indicators": {
+            "Total Score": 39.2,
+            "Score on Alumni": 20.3,
+            "Score on Award": 18.6,
+            "Score on HiCi": 51,
+            "Score on N&S": 34.8,
+            "Score on PUB": 65.5,
+            "Score on PCP": 24.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "32",
+          "rankMin": 32,
+          "rankMax": 32,
+          "status": "exact",
+          "score": 37.5,
+          "indicators": {
+            "Total Score": 37.5,
+            "Score on Alumni": 20,
+            "Score on Award": 18.6,
+            "Score on HiCi": 44.4,
+            "Score on N&S": 35.2,
+            "Score on PUB": 64.1,
+            "Score on PCP": 22.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "31",
+          "rankMin": 31,
+          "rankMax": 31,
+          "status": "exact",
+          "score": 37.2,
+          "indicators": {
+            "Total Score": 37.2,
+            "Score on Alumni": 20,
+            "Score on Award": 18.7,
+            "Score on HiCi": 41.6,
+            "Score on N&S": 36.3,
+            "Score on PUB": 63.4,
+            "Score on PCP": 23.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "34",
+          "rankMin": 34,
+          "rankMax": 34,
+          "status": "exact",
+          "score": 34.6,
+          "indicators": {
+            "Total Score": 34.6,
+            "Score on Alumni": 19.6,
+            "Score on Award": 17.8,
+            "Score on HiCi": 36,
+            "Score on N&S": 38,
+            "Score on PUB": 55.4,
+            "Score on PCP": 22.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "39",
+          "rankMin": 39,
+          "rankMax": 39,
+          "status": "exact",
+          "score": 34.6,
+          "indicators": {
+            "Total Score": 34.6,
+            "Score on Alumni": 19.4,
+            "Score on Award": 17.8,
+            "Score on HiCi": 33.2,
+            "Score on N&S": 37.7,
+            "Score on PUB": 60.1,
+            "Score on PCP": 22.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "46",
+          "rankMin": 46,
+          "rankMax": 46,
+          "status": "exact",
+          "score": 33.6,
+          "indicators": {
+            "Total Score": 33.6,
+            "Score on Alumni": 19.1,
+            "Score on Award": 17.5,
+            "Score on HiCi": 28.7,
+            "Score on N&S": 38.8,
+            "Score on PUB": 58,
+            "Score on PCP": 20.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "48",
+          "rankMin": 48,
+          "rankMax": 48,
+          "status": "exact",
+          "score": 34.3,
+          "indicators": {
+            "Total Score": 34.3,
+            "Score on Alumni": 18.9,
+            "Score on Award": 17.5,
+            "Score on HiCi": 35.3,
+            "Score on N&S": 38.7,
+            "Score on PUB": 53.4,
+            "Score on PCP": 20.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/duke-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#87acd9",
+      "group": "United States",
+      "profile": {
+        "id": "duke",
+        "name": "Duke University",
+        "country": "United States",
+        "chapter": 7,
+        "role": "The planned challenger: strategic resource allocation, interdisciplinary institutes and international ambition help distinguish it from older, richer institutions.",
+        "tension": "Its rise invites questions about planning versus money, selective investment, recruitment, and national research funding. The chapter illustrates these together rather than isolating one cause.",
+        "sources": [
+          {
+            "chapter": "Chapter 7",
+            "lines": "97"
+          },
+          {
+            "chapter": "Chapter 7",
+            "lines": "163–175"
+          },
+          {
+            "chapter": "Conclusion: Lessons and Prospects",
+            "lines": "81–87"
+          }
+        ]
+      },
+      "question": "Which gains depended on durable rules, and which on unusually effective leaders?"
+    },
+    {
+      "id": "humboldt",
+      "name": "Humboldt / University of Berlin",
+      "officialName": "Humboldt University of Berlin",
+      "region": "Germany",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/humboldt-university-of-berlin/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "152-200",
+          "rankMin": 152,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Award": 0,
+            "Score on HiCi": 10.3,
+            "Score on N&S": 10.8,
+            "Score on PUB": 50.2,
+            "Score on PCP": 17.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "95",
+          "rankMin": 95,
+          "rankMax": 95,
+          "status": "exact",
+          "score": 25.4,
+          "indicators": {
+            "Total Score": 25.4,
+            "Score on Alumni": 29.5,
+            "Score on Award": 21.9,
+            "Score on HiCi": 8.7,
+            "Score on N&S": 14.8,
+            "Score on PUB": 49.7,
+            "Score on PCP": 24.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/humboldt-university-of-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "note": "The current official ARWU record publishes 2003 and 2004 positions, then no overall rank for 2005–2026. Every annual official table was checked. This is not a zero, a rank below 1000, or a decline. A 2015 DFG/WR report explains the absence through competing institutional-successor claims over pre-war Nobel laureates. No overall ARWU positions are inferred from subject rankings.",
+      "color": "#c1a3dc",
+      "group": "Germany",
+      "profile": {
+        "id": "humboldt",
+        "name": "Humboldt University of Berlin",
+        "country": "Germany",
+        "chapter": 2,
+        "historical_names": [
+          "University of Berlin",
+          "Friedrich Wilhelm University"
+        ],
+        "role": "The modern original: founded in 1810, a formative model for the unity of research and education; later devastated by political persecution, war, ideological control and fragmented governance. Contemporary recovery is increasingly collaborative.",
+        "tension": "A prestigious past neither guarantees institutional autonomy nor solves present administration and funding.",
+        "sources": [
+          {
+            "chapter": "Chapter 2",
+            "lines": "11–23"
+          },
+          {
+            "chapter": "Chapter 2",
+            "lines": "227–239"
+          }
+        ]
+      },
+      "question": "How much of the research ideal survived the political systems that claimed it?"
+    },
+    {
+      "id": "free-berlin",
+      "name": "Free University Berlin",
+      "officialName": "Free University Berlin",
+      "region": "Germany",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/free-university-berlin/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "95",
+          "rankMin": 95,
+          "rankMax": 95,
+          "status": "exact",
+          "score": 26.1,
+          "indicators": {
+            "Total Score": 26.1,
+            "Score on Award": 24.2,
+            "Score on HiCi": 10.3,
+            "Score on N&S": 18.6,
+            "Score on PUB": 44.5,
+            "Score on PCP": 24.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "202-301",
+          "rankMin": 202,
+          "rankMax": 301,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 8.7,
+            "Score on N&S": 19.9,
+            "Score on PUB": 43,
+            "Score on PCP": 16
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": null,
+          "rankMin": null,
+          "rankMax": null,
+          "status": "not-published",
+          "score": null,
+          "indicators": {},
+          "sourceUrl": "https://www.shanghairanking.com/universities/free-university-berlin",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "note": "The current official ARWU record publishes 2003 and 2004 positions, then no overall rank for 2005–2026. Every annual official table was checked. This is not a zero, a rank below 1000, or a decline. A 2015 DFG/WR report explains the absence through competing institutional-successor claims over pre-war Nobel laureates. No overall ARWU positions are inferred from subject rankings.",
+      "color": "#b7c7b3",
+      "group": "Germany",
+      "profile": {
+        "id": "free-berlin",
+        "name": "Free University of Berlin",
+        "country": "Germany",
+        "chapter": 3,
+        "historical_names": [
+          "Freie Universität Berlin",
+          "FU Berlin"
+        ],
+        "role": "Founded in 1948 in Cold War Berlin; repeatedly reinvented itself, with strategic planning and international partnerships helping it gain Excellence status.",
+        "tension": "A university founded to protect autonomy later has to integrate its future with former competitors in the Berlin University Alliance.",
+        "sources": [
+          {
+            "chapter": "Chapter 3",
+            "lines": "191–215"
+          }
+        ]
+      },
+      "question": "What does institutional autonomy require beyond a founding commitment to freedom?"
+    },
+    {
+      "id": "tsinghua",
+      "name": "Tsinghua",
+      "officialName": "Tsinghua University",
+      "region": "China",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/tsinghua-university/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "201-250",
+          "rankMin": 201,
+          "rankMax": 250,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 10.6,
+            "Score on PUB": 54,
+            "Score on PCP": 10.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "202-301",
+          "rankMin": 202,
+          "rankMax": 301,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 14.1,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 8.8,
+            "Score on PUB": 56.1,
+            "Score on PCP": 9.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "153-202",
+          "rankMin": 153,
+          "rankMax": 202,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 14,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 9.9,
+            "Score on PUB": 55.7,
+            "Score on PCP": 19.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 13.5,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 10.9,
+            "Score on PUB": 60.1,
+            "Score on PCP": 20.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "151-202",
+          "rankMin": 151,
+          "rankMax": 202,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 13.2,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 11.6,
+            "Score on PUB": 56.3,
+            "Score on PCP": 18
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "201-302",
+          "rankMin": 201,
+          "rankMax": 302,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 12.5,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 9.4,
+            "Score on PUB": 56.3,
+            "Score on PCP": 19.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "201-302",
+          "rankMin": 201,
+          "rankMax": 302,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 12.2,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 9.2,
+            "Score on PUB": 55.8,
+            "Score on PCP": 16.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 11.9,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 11.8,
+            "Score on PUB": 57.8,
+            "Score on PCP": 17
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 11.8,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 14.3,
+            "Score on PUB": 56.4,
+            "Score on PCP": 16.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 10.8,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 17.3,
+            "Score on PUB": 57,
+            "Score on PCP": 16.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 10.7,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 21.6,
+            "Score on PUB": 58.1,
+            "Score on PCP": 17
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 10.5,
+            "Score on Award": 0,
+            "Score on HiCi": 10,
+            "Score on N&S": 26.2,
+            "Score on PUB": 62.7,
+            "Score on PCP": 19.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 10.3,
+            "Score on Award": 0,
+            "Score on HiCi": 10,
+            "Score on N&S": 26.8,
+            "Score on PUB": 63.8,
+            "Score on PCP": 20.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "58",
+          "rankMin": 58,
+          "rankMax": 58,
+          "status": "exact",
+          "score": 29.6,
+          "indicators": {
+            "Total Score": 29.6,
+            "Score on Alumni": 10.3,
+            "Score on Award": 0,
+            "Score on HiCi": 27.1,
+            "Score on N&S": 32.5,
+            "Score on PUB": 68.3,
+            "Score on PCP": 23.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "48",
+          "rankMin": 48,
+          "rankMax": 48,
+          "status": "exact",
+          "score": 32.8,
+          "indicators": {
+            "Total Score": 32.8,
+            "Score on Alumni": 10.2,
+            "Score on Award": 0,
+            "Score on HiCi": 37.8,
+            "Score on N&S": 35.2,
+            "Score on PUB": 70.3,
+            "Score on PCP": 25.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "45",
+          "rankMin": 45,
+          "rankMax": 45,
+          "status": "exact",
+          "score": 34.1,
+          "indicators": {
+            "Total Score": 34.1,
+            "Score on Alumni": 10.2,
+            "Score on Award": 0,
+            "Score on HiCi": 37.1,
+            "Score on N&S": 38.4,
+            "Score on PUB": 74.6,
+            "Score on PCP": 24.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "43",
+          "rankMin": 43,
+          "rankMax": 43,
+          "status": "exact",
+          "score": 35.4,
+          "indicators": {
+            "Total Score": 35.4,
+            "Score on Alumni": 9.7,
+            "Score on Award": 0,
+            "Score on HiCi": 37.4,
+            "Score on N&S": 39.2,
+            "Score on PUB": 79.5,
+            "Score on PCP": 24.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "29",
+          "rankMin": 29,
+          "rankMax": 29,
+          "status": "exact",
+          "score": 38.1,
+          "indicators": {
+            "Total Score": 38.1,
+            "Score on Alumni": 9.4,
+            "Score on Award": 0,
+            "Score on HiCi": 45.4,
+            "Score on N&S": 42.9,
+            "Score on PUB": 80.2,
+            "Score on PCP": 26.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "28",
+          "rankMin": 28,
+          "rankMax": 28,
+          "status": "exact",
+          "score": 39.5,
+          "indicators": {
+            "Total Score": 39.5,
+            "Score on Alumni": 9.2,
+            "Score on Award": 0,
+            "Score on HiCi": 54.1,
+            "Score on N&S": 42.9,
+            "Score on PUB": 78.2,
+            "Score on PCP": 27.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "26",
+          "rankMin": 26,
+          "rankMax": 26,
+          "status": "exact",
+          "score": 39.3,
+          "indicators": {
+            "Total Score": 39.3,
+            "Score on Alumni": 9.2,
+            "Score on Award": 0,
+            "Score on HiCi": 52.1,
+            "Score on N&S": 43,
+            "Score on PUB": 78.8,
+            "Score on PCP": 27.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "22",
+          "rankMin": 22,
+          "rankMax": 22,
+          "status": "exact",
+          "score": 40.3,
+          "indicators": {
+            "Total Score": 40.3,
+            "Score on Alumni": 9.1,
+            "Score on Award": 0,
+            "Score on HiCi": 55.4,
+            "Score on N&S": 44.1,
+            "Score on PUB": 77.6,
+            "Score on PCP": 28.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "22",
+          "rankMin": 22,
+          "rankMax": 22,
+          "status": "exact",
+          "score": 43.3,
+          "indicators": {
+            "Total Score": 43.3,
+            "Score on Alumni": 9,
+            "Score on Award": 0,
+            "Score on HiCi": 57.5,
+            "Score on N&S": 47.1,
+            "Score on PUB": 86.2,
+            "Score on PCP": 34
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "18",
+          "rankMin": 18,
+          "rankMax": 18,
+          "status": "exact",
+          "score": 46,
+          "indicators": {
+            "Total Score": 46,
+            "Score on Alumni": 8.8,
+            "Score on Award": 0,
+            "Score on HiCi": 63.5,
+            "Score on N&S": 49.5,
+            "Score on PUB": 88.1,
+            "Score on PCP": 35.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "18",
+          "rankMin": 18,
+          "rankMax": 18,
+          "status": "exact",
+          "score": 48.3,
+          "indicators": {
+            "Total Score": 48.3,
+            "Score on Alumni": 8.7,
+            "Score on Award": 0,
+            "Score on HiCi": 70.9,
+            "Score on N&S": 52.6,
+            "Score on PUB": 87.6,
+            "Score on PCP": 32.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/tsinghua-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#e19e72",
+      "group": "China & Hong Kong",
+      "profile": {
+        "id": "tsinghua",
+        "name": "Tsinghua University",
+        "country": "China",
+        "chapter": 9,
+        "role": "The state-backed technical powerhouse: strong engineering and science, intensive international recruitment, entrepreneurial finance and efforts at general education coexist with growing Party oversight.",
+        "tension": "Comprehensive education and autonomy are institutional aspirations while government finance and evaluation strongly favor applied STEM and state priorities.",
+        "sources": [
+          {
+            "chapter": "Chapter 9",
+            "lines": "47–61"
+          },
+          {
+            "chapter": "Chapter 9",
+            "lines": "81–99"
+          },
+          {
+            "chapter": "Chapter 9",
+            "lines": "157–167"
+          },
+          {
+            "chapter": "Chapter 9",
+            "lines": "223"
+          }
+        ]
+      },
+      "question": "Which kinds of inquiry can flourish with state support and political constraints?"
+    },
+    {
+      "id": "nanjing",
+      "name": "Nanjing",
+      "officialName": "Nanjing University",
+      "region": "China",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/nanjing-university/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "301-350",
+          "rankMin": 301,
+          "rankMax": 350,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 2,
+            "Score on PUB": 41.8,
+            "Score on PCP": 12.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "302-403",
+          "rankMin": 302,
+          "rankMax": 403,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 8.2,
+            "Score on PUB": 43.9,
+            "Score on PCP": 8.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "301-400",
+          "rankMin": 301,
+          "rankMax": 400,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 7.2,
+            "Score on PUB": 42.1,
+            "Score on PCP": 15.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "301-400",
+          "rankMin": 301,
+          "rankMax": 400,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 7.1,
+            "Score on PUB": 46.6,
+            "Score on PCP": 17.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "203-304",
+          "rankMin": 203,
+          "rankMax": 304,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 12,
+            "Score on PUB": 46.2,
+            "Score on PCP": 17.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "201-302",
+          "rankMin": 201,
+          "rankMax": 302,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 12.7,
+            "Score on PUB": 43.5,
+            "Score on PCP": 16.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "201-302",
+          "rankMin": 201,
+          "rankMax": 302,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 12.5,
+            "Score on PUB": 42.8,
+            "Score on PCP": 16.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 12.2,
+            "Score on PUB": 45.9,
+            "Score on PCP": 16.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 13,
+            "Score on PUB": 45.4,
+            "Score on PCP": 15.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 1.4,
+            "Score on N&S": 10,
+            "Score on PUB": 47.1,
+            "Score on PCP": 16.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 1.4,
+            "Score on N&S": 8.9,
+            "Score on PUB": 48.7,
+            "Score on PCP": 16.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0.7,
+            "Score on N&S": 6.9,
+            "Score on PUB": 51.5,
+            "Score on PCP": 17.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0.7,
+            "Score on N&S": 9.3,
+            "Score on PUB": 53.7,
+            "Score on PCP": 19
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 10.5,
+            "Score on PUB": 56.3,
+            "Score on PCP": 20.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 11,
+            "Score on PUB": 56.9,
+            "Score on PCP": 20.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 13.5,
+            "Score on N&S": 11.5,
+            "Score on PUB": 59.4,
+            "Score on PCP": 20.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 19.4,
+            "Score on N&S": 12.2,
+            "Score on PUB": 60.5,
+            "Score on PCP": 20.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 17.1,
+            "Score on N&S": 14.8,
+            "Score on PUB": 61.4,
+            "Score on PCP": 25.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 19.3,
+            "Score on N&S": 17.2,
+            "Score on PUB": 60.1,
+            "Score on PCP": 21.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 25.6,
+            "Score on N&S": 18.4,
+            "Score on PUB": 61.6,
+            "Score on PCP": 23.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "96",
+          "rankMin": 96,
+          "rankMax": 96,
+          "status": "exact",
+          "score": 25.2,
+          "indicators": {
+            "Total Score": 25.2,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 25.5,
+            "Score on N&S": 24.3,
+            "Score on PUB": 60.5,
+            "Score on PCP": 24.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "82",
+          "rankMin": 82,
+          "rankMax": 82,
+          "status": "exact",
+          "score": 27.5,
+          "indicators": {
+            "Total Score": 27.5,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 26.8,
+            "Score on N&S": 27.6,
+            "Score on PUB": 66.8,
+            "Score on PCP": 26.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "75",
+          "rankMin": 75,
+          "rankMax": 75,
+          "status": "exact",
+          "score": 28.8,
+          "indicators": {
+            "Total Score": 28.8,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 29.4,
+            "Score on N&S": 29.6,
+            "Score on PUB": 67.7,
+            "Score on PCP": 26.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "70",
+          "rankMin": 70,
+          "rankMax": 70,
+          "status": "exact",
+          "score": 30.5,
+          "indicators": {
+            "Total Score": 30.5,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 32.9,
+            "Score on N&S": 32.2,
+            "Score on PUB": 68,
+            "Score on PCP": 27
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/nanjing-university",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#8fcebd",
+      "group": "China & Hong Kong",
+      "profile": {
+        "id": "nanjing",
+        "name": "Nanjing University",
+        "country": "China",
+        "chapter": 10,
+        "historical_names": [
+          "National Central University (a principal predecessor)",
+          "Nanda"
+        ],
+        "role": "The burden of history: a rebuilt liberal arts and sciences institution seeks world-class standing while national priorities push it toward engineering, expansion and ideological compliance. Its predecessor institutions must not be treated as an uninterrupted ranking entity.",
+        "tension": "Aligning with the state and expanding toward favored disciplines does not automatically improve relative standing; competing institutions are also changing.",
+        "sources": [
+          {
+            "chapter": "Chapter 10",
+            "lines": "103–123"
+          },
+          {
+            "chapter": "Chapter 10",
+            "lines": "185–199"
+          }
+        ]
+      },
+      "question": "What is lost when a distinctive academic mission follows the same ranking incentives as everyone else?"
+    },
+    {
+      "id": "hku",
+      "name": "University of Hong Kong",
+      "officialName": "The University of Hong Kong",
+      "region": "Hong Kong",
+      "profiled": true,
+      "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/the-university-of-hong-kong/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "251-300",
+          "rankMin": 251,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Award": 0,
+            "Score on HiCi": 0,
+            "Score on N&S": 6.7,
+            "Score on PUB": 45.9,
+            "Score on PCP": 13.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "202-301",
+          "rankMin": 202,
+          "rankMax": 301,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 8.7,
+            "Score on N&S": 10.1,
+            "Score on PUB": 46.4,
+            "Score on PCP": 14.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "203-300",
+          "rankMin": 203,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 7.9,
+            "Score on N&S": 10.9,
+            "Score on PUB": 46.3,
+            "Score on PCP": 21.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 13.3,
+            "Score on N&S": 12.1,
+            "Score on PUB": 46.5,
+            "Score on PCP": 22.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "203-304",
+          "rankMin": 203,
+          "rankMax": 304,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 12.8,
+            "Score on N&S": 11.1,
+            "Score on PUB": 43.9,
+            "Score on PCP": 20.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "201-302",
+          "rankMin": 201,
+          "rankMax": 302,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 12.6,
+            "Score on N&S": 11,
+            "Score on PUB": 44.3,
+            "Score on PCP": 17.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "201-302",
+          "rankMin": 201,
+          "rankMax": 302,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 14.5,
+            "Score on N&S": 8.9,
+            "Score on PUB": 44.1,
+            "Score on PCP": 21.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 14.4,
+            "Score on N&S": 10.4,
+            "Score on PUB": 43.9,
+            "Score on PCP": 22
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 14.4,
+            "Score on N&S": 11.1,
+            "Score on PUB": 44.8,
+            "Score on PCP": 20.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 12.7,
+            "Score on N&S": 14.3,
+            "Score on PUB": 46,
+            "Score on PCP": 21.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "201-300",
+          "rankMin": 201,
+          "rankMax": 300,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 12.7,
+            "Score on N&S": 14.3,
+            "Score on PUB": 43,
+            "Score on PCP": 20.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 17.5,
+            "Score on N&S": 15.5,
+            "Score on PUB": 44,
+            "Score on PCP": 22.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 17.5,
+            "Score on N&S": 14.2,
+            "Score on PUB": 43.9,
+            "Score on PCP": 22.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 32.4,
+            "Score on N&S": 15.1,
+            "Score on PUB": 44.8,
+            "Score on PCP": 27.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 34.5,
+            "Score on N&S": 13.4,
+            "Score on PUB": 45.9,
+            "Score on PCP": 28.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 33.2,
+            "Score on N&S": 14.4,
+            "Score on PUB": 49.9,
+            "Score on PCP": 29.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 28.4,
+            "Score on N&S": 14.1,
+            "Score on PUB": 50.6,
+            "Score on PCP": 28.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "151-200",
+          "rankMin": 151,
+          "rankMax": 200,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 25.2,
+            "Score on N&S": 13.9,
+            "Score on PUB": 52.9,
+            "Score on PCP": 21.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "101-150",
+          "rankMin": 101,
+          "rankMax": 150,
+          "status": "band",
+          "score": null,
+          "indicators": {
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 27.3,
+            "Score on N&S": 17.6,
+            "Score on PUB": 55.7,
+            "Score on PCP": 23.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "96",
+          "rankMin": 96,
+          "rankMax": 96,
+          "status": "exact",
+          "score": 26.1,
+          "indicators": {
+            "Total Score": 26.1,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 39.3,
+            "Score on N&S": 18.7,
+            "Score on PUB": 56.4,
+            "Score on PCP": 27
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "88",
+          "rankMin": 88,
+          "rankMax": 88,
+          "status": "exact",
+          "score": 26.1,
+          "indicators": {
+            "Total Score": 26.1,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 41.1,
+            "Score on N&S": 21.6,
+            "Score on PUB": 51,
+            "Score on PCP": 26.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "69",
+          "rankMin": 69,
+          "rankMax": 69,
+          "status": "exact",
+          "score": 29.5,
+          "indicators": {
+            "Total Score": 29.5,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 48.7,
+            "Score on N&S": 24.2,
+            "Score on PUB": 56.5,
+            "Score on PCP": 29.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "67",
+          "rankMin": 67,
+          "rankMax": 67,
+          "status": "exact",
+          "score": 30.5,
+          "indicators": {
+            "Total Score": 30.5,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 48.3,
+            "Score on N&S": 28.4,
+            "Score on PUB": 56.3,
+            "Score on PCP": 29.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "62",
+          "rankMin": 62,
+          "rankMax": 62,
+          "status": "exact",
+          "score": 32.1,
+          "indicators": {
+            "Total Score": 32.1,
+            "Score on Alumni": 0,
+            "Score on Award": 0,
+            "Score on HiCi": 54,
+            "Score on N&S": 27.5,
+            "Score on PUB": 57.2,
+            "Score on PCP": 30.2
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/the-university-of-hong-kong",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#d0b29d",
+      "group": "China & Hong Kong",
+      "profile": {
+        "id": "hku",
+        "name": "University of Hong Kong",
+        "country": "Hong Kong",
+        "chapter": 11,
+        "role": "The imperial institution turned global university: generous public support, educational reform and international ambition confront increasingly direct political interference.",
+        "tension": "Formal autonomy, lived academic freedom and rank are distinct outcomes, and favorable rank cannot settle whether governance is free.",
+        "sources": [
+          {
+            "chapter": "Chapter 11",
+            "lines": "75–99"
+          },
+          {
+            "chapter": "Chapter 11",
+            "lines": "173–189"
+          },
+          {
+            "chapter": "Chapter 11",
+            "lines": "211–219"
+          },
+          {
+            "chapter": "Chapter 11",
+            "lines": "239–245"
+          }
+        ]
+      },
+      "question": "Can an international research reputation persist while autonomy is narrowed?"
+    },
+    {
+      "id": "mit",
+      "name": "MIT",
+      "officialName": "Massachusetts Institute of Technology",
+      "region": "United States",
+      "profiled": false,
+      "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/massachusetts-institute-of-technology-mit/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 70.6,
+          "indicators": {
+            "Total Score": 70.6,
+            "Score on Award": 79.4,
+            "Score on HiCi": 67.3,
+            "Score on N&S": 66.3,
+            "Score on PUB": 63.9,
+            "Score on PCP": 53.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 72.4,
+          "indicators": {
+            "Total Score": 72.4,
+            "Score on Alumni": 74.1,
+            "Score on Award": 78.9,
+            "Score on HiCi": 73.6,
+            "Score on N&S": 69.1,
+            "Score on PUB": 64.6,
+            "Score on PCP": 47.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 70.1,
+          "indicators": {
+            "Total Score": 70.1,
+            "Score on Alumni": 74,
+            "Score on Award": 80.6,
+            "Score on HiCi": 66.7,
+            "Score on N&S": 65.8,
+            "Score on PUB": 64.3,
+            "Score on PCP": 53
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 69.7,
+          "indicators": {
+            "Total Score": 69.7,
+            "Score on Alumni": 72.9,
+            "Score on Award": 80.6,
+            "Score on HiCi": 66.6,
+            "Score on N&S": 66.4,
+            "Score on PUB": 62.2,
+            "Score on PCP": 53.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 70,
+          "indicators": {
+            "Total Score": 70,
+            "Score on Alumni": 74.6,
+            "Score on Award": 80.6,
+            "Score on HiCi": 65.9,
+            "Score on N&S": 68.4,
+            "Score on PUB": 61.7,
+            "Score on PCP": 53.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 69.6,
+          "indicators": {
+            "Total Score": 69.6,
+            "Score on Alumni": 71,
+            "Score on Award": 80.6,
+            "Score on HiCi": 65.6,
+            "Score on N&S": 68.7,
+            "Score on PUB": 61.6,
+            "Score on PCP": 53.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 69.5,
+          "indicators": {
+            "Total Score": 69.5,
+            "Score on Alumni": 71,
+            "Score on Award": 80.6,
+            "Score on HiCi": 65.7,
+            "Score on N&S": 67.9,
+            "Score on PUB": 62,
+            "Score on PCP": 54.4
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 71.4,
+          "indicators": {
+            "Total Score": 71.4,
+            "Score on Alumni": 70.5,
+            "Score on Award": 80.3,
+            "Score on HiCi": 66.8,
+            "Score on N&S": 70.1,
+            "Score on PUB": 61.4,
+            "Score on PCP": 64.5
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 72,
+          "indicators": {
+            "Total Score": 72,
+            "Score on Alumni": 72.8,
+            "Score on Award": 81.9,
+            "Score on HiCi": 67.9,
+            "Score on N&S": 70.6,
+            "Score on PUB": 60.6,
+            "Score on PCP": 63.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 71.8,
+          "indicators": {
+            "Total Score": 71.8,
+            "Score on Alumni": 69,
+            "Score on Award": 83.2,
+            "Score on HiCi": 68.2,
+            "Score on N&S": 69.2,
+            "Score on PUB": 61.6,
+            "Score on PCP": 64.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 71.1,
+          "indicators": {
+            "Total Score": 71.1,
+            "Score on Alumni": 68,
+            "Score on Award": 81.3,
+            "Score on HiCi": 68.2,
+            "Score on N&S": 69.7,
+            "Score on PUB": 60.1,
+            "Score on PCP": 65
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 70.5,
+          "indicators": {
+            "Total Score": 70.5,
+            "Score on Alumni": 68.4,
+            "Score on Award": 80.7,
+            "Score on HiCi": 60.6,
+            "Score on N&S": 73.6,
+            "Score on PUB": 61.5,
+            "Score on PCP": 67.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 70.4,
+          "indicators": {
+            "Total Score": 70.4,
+            "Score on Alumni": 68.2,
+            "Score on Award": 80.7,
+            "Score on HiCi": 60.6,
+            "Score on N&S": 73.1,
+            "Score on PUB": 61.1,
+            "Score on PCP": 68
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "5",
+          "rankMin": 5,
+          "rankMax": 5,
+          "status": "exact",
+          "score": 69.2,
+          "indicators": {
+            "Total Score": 69.2,
+            "Score on Alumni": 69.4,
+            "Score on Award": 80.7,
+            "Score on HiCi": 55.3,
+            "Score on N&S": 71.7,
+            "Score on PUB": 61.7,
+            "Score on PCP": 69.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 70.4,
+          "indicators": {
+            "Total Score": 70.4,
+            "Score on Alumni": 68.7,
+            "Score on Award": 82.3,
+            "Score on HiCi": 56.7,
+            "Score on N&S": 72.4,
+            "Score on PUB": 63.5,
+            "Score on PCP": 70.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 69.9,
+          "indicators": {
+            "Total Score": 69.9,
+            "Score on Alumni": 70.9,
+            "Score on Award": 83.6,
+            "Score on HiCi": 52.5,
+            "Score on N&S": 71.4,
+            "Score on PUB": 64.4,
+            "Score on PCP": 70.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 69,
+          "indicators": {
+            "Total Score": 69,
+            "Score on Alumni": 72,
+            "Score on Award": 83.6,
+            "Score on HiCi": 49.2,
+            "Score on N&S": 69.4,
+            "Score on PUB": 65.2,
+            "Score on PCP": 68.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 69.6,
+          "indicators": {
+            "Total Score": 69.6,
+            "Score on Alumni": 71.4,
+            "Score on Award": 85.1,
+            "Score on HiCi": 51.4,
+            "Score on N&S": 69.8,
+            "Score on PUB": 63.7,
+            "Score on PCP": 69.7
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "4",
+          "rankMin": 4,
+          "rankMax": 4,
+          "status": "exact",
+          "score": 69.5,
+          "indicators": {
+            "Total Score": 69.5,
+            "Score on Alumni": 71.6,
+            "Score on Award": 85.1,
+            "Score on HiCi": 53.1,
+            "Score on N&S": 70,
+            "Score on PUB": 61.8,
+            "Score on PCP": 70.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 70.1,
+          "indicators": {
+            "Total Score": 70.1,
+            "Score on Alumni": 72.8,
+            "Score on Award": 84.8,
+            "Score on HiCi": 54.7,
+            "Score on N&S": 69.7,
+            "Score on PUB": 60.7,
+            "Score on PCP": 73.3
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 69.1,
+          "indicators": {
+            "Total Score": 69.1,
+            "Score on Alumni": 72.5,
+            "Score on Award": 81.1,
+            "Score on HiCi": 54.7,
+            "Score on N&S": 71.8,
+            "Score on PUB": 55,
+            "Score on PCP": 73.8
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 69.5,
+          "indicators": {
+            "Total Score": 69.5,
+            "Score on Alumni": 71.9,
+            "Score on Award": 82.8,
+            "Score on HiCi": 55.2,
+            "Score on N&S": 70.8,
+            "Score on PUB": 59.1,
+            "Score on PCP": 73.6
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 71.2,
+          "indicators": {
+            "Total Score": 71.2,
+            "Score on Alumni": 73,
+            "Score on Award": 84.4,
+            "Score on HiCi": 57.4,
+            "Score on N&S": 73.6,
+            "Score on PUB": 56.9,
+            "Score on PCP": 73.9
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 74.1,
+          "indicators": {
+            "Total Score": 74.1,
+            "Score on Alumni": 75.8,
+            "Score on Award": 84.4,
+            "Score on HiCi": 67.4,
+            "Score on N&S": 74.5,
+            "Score on PUB": 53.7,
+            "Score on PCP": 75.1
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/massachusetts-institute-of-technology-mit",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#f0e7d4",
+      "group": "United States"
+    },
+    {
+      "id": "caltech",
+      "name": "Caltech",
+      "officialName": "California Institute of Technology",
+      "region": "United States",
+      "profiled": false,
+      "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+      "payloadUrl": "https://www.shanghairanking.com/_nuxt/static/1791962284/universities/california-institute-of-technology/payload.js",
+      "retrieved": "2026-10-18",
+      "records": [
+        {
+          "year": 2003,
+          "rank": "3",
+          "rankMin": 3,
+          "rankMax": 3,
+          "status": "exact",
+          "score": 76.3,
+          "indicators": {
+            "Total Score": 76.3,
+            "Score on Award": 72.9,
+            "Score on HiCi": 68,
+            "Score on N&S": 64.1,
+            "Score on PUB": 52,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2003",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2004,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 69,
+          "indicators": {
+            "Total Score": 69,
+            "Score on Alumni": 59.3,
+            "Score on Award": 66.5,
+            "Score on HiCi": 64.8,
+            "Score on N&S": 66.7,
+            "Score on PUB": 53.2,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2004",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2005,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 67.1,
+          "indicators": {
+            "Total Score": 67.1,
+            "Score on Alumni": 59.2,
+            "Score on Award": 68.6,
+            "Score on HiCi": 59.8,
+            "Score on N&S": 65.8,
+            "Score on PUB": 52.5,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2005",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2006,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 66,
+          "indicators": {
+            "Total Score": 66,
+            "Score on Alumni": 57.1,
+            "Score on Award": 69.1,
+            "Score on HiCi": 59.1,
+            "Score on N&S": 64.5,
+            "Score on PUB": 50.1,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2006",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2007,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 66.4,
+          "indicators": {
+            "Total Score": 66.4,
+            "Score on Alumni": 55.5,
+            "Score on Award": 69.1,
+            "Score on HiCi": 58.4,
+            "Score on N&S": 67.6,
+            "Score on PUB": 50.3,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2007",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2008,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 65.4,
+          "indicators": {
+            "Total Score": 65.4,
+            "Score on Alumni": 52.8,
+            "Score on Award": 69.1,
+            "Score on HiCi": 57.4,
+            "Score on N&S": 66.1,
+            "Score on PUB": 49.7,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2008",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2009,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 64.8,
+          "indicators": {
+            "Total Score": 64.8,
+            "Score on Alumni": 51.5,
+            "Score on Award": 69.1,
+            "Score on HiCi": 57.1,
+            "Score on N&S": 66.2,
+            "Score on PUB": 47.7,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2009",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2010,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 64.4,
+          "indicators": {
+            "Total Score": 64.4,
+            "Score on Alumni": 50.3,
+            "Score on Award": 68.8,
+            "Score on HiCi": 56.7,
+            "Score on N&S": 64.8,
+            "Score on PUB": 46.9,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2010",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2011,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 64.7,
+          "indicators": {
+            "Total Score": 64.7,
+            "Score on Alumni": 52.6,
+            "Score on Award": 68.8,
+            "Score on HiCi": 57.3,
+            "Score on N&S": 65,
+            "Score on PUB": 46.5,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2011",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2012,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 64.1,
+          "indicators": {
+            "Total Score": 64.1,
+            "Score on Alumni": 48.5,
+            "Score on Award": 68.8,
+            "Score on HiCi": 57.4,
+            "Score on N&S": 64.8,
+            "Score on PUB": 46.2,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2012",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2013,
+          "rank": "6",
+          "rankMin": 6,
+          "rankMax": 6,
+          "status": "exact",
+          "score": 62.9,
+          "indicators": {
+            "Total Score": 62.9,
+            "Score on Alumni": 47.8,
+            "Score on Award": 67.2,
+            "Score on HiCi": 57.4,
+            "Score on N&S": 62,
+            "Score on PUB": 45.2,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2013",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2014,
+          "rank": "7",
+          "rankMin": 7,
+          "rankMax": 7,
+          "status": "exact",
+          "score": 60.5,
+          "indicators": {
+            "Total Score": 60.5,
+            "Score on Alumni": 48.5,
+            "Score on Award": 66.7,
+            "Score on HiCi": 49.3,
+            "Score on N&S": 60,
+            "Score on PUB": 44.9,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2014",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2015,
+          "rank": "7",
+          "rankMin": 7,
+          "rankMax": 7,
+          "status": "exact",
+          "score": 59.6,
+          "indicators": {
+            "Total Score": 59.6,
+            "Score on Alumni": 49.5,
+            "Score on Award": 66.7,
+            "Score on HiCi": 49.3,
+            "Score on N&S": 56.4,
+            "Score on PUB": 44,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2015",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2016,
+          "rank": "8",
+          "rankMin": 8,
+          "rankMax": 8,
+          "status": "exact",
+          "score": 57.8,
+          "indicators": {
+            "Total Score": 57.8,
+            "Score on Alumni": 51,
+            "Score on Award": 66.7,
+            "Score on HiCi": 39.7,
+            "Score on N&S": 57.3,
+            "Score on PUB": 43.6,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2016",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2017,
+          "rank": "9",
+          "rankMin": 9,
+          "rankMax": 9,
+          "status": "exact",
+          "score": 57.3,
+          "indicators": {
+            "Total Score": 57.3,
+            "Score on Alumni": 50.5,
+            "Score on Award": 65.8,
+            "Score on HiCi": 39.3,
+            "Score on N&S": 56,
+            "Score on PUB": 44,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2017",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2018,
+          "rank": "9",
+          "rankMin": 9,
+          "rankMax": 9,
+          "status": "exact",
+          "score": 57.4,
+          "indicators": {
+            "Total Score": 57.4,
+            "Score on Alumni": 53.5,
+            "Score on Award": 67.5,
+            "Score on HiCi": 34.5,
+            "Score on N&S": 57.6,
+            "Score on PUB": 45,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2018",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2019,
+          "rank": "9",
+          "rankMin": 9,
+          "rankMax": 9,
+          "status": "exact",
+          "score": 58.6,
+          "indicators": {
+            "Total Score": 58.6,
+            "Score on Alumni": 52.3,
+            "Score on Award": 70.6,
+            "Score on HiCi": 36.7,
+            "Score on N&S": 57.7,
+            "Score on PUB": 45.4,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2019",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2020,
+          "rank": "8",
+          "rankMin": 8,
+          "rankMax": 8,
+          "status": "exact",
+          "score": 57.7,
+          "indicators": {
+            "Total Score": 57.7,
+            "Score on Alumni": 50.7,
+            "Score on Award": 69.1,
+            "Score on HiCi": 36.4,
+            "Score on N&S": 57.9,
+            "Score on PUB": 43.9,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2020",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2021,
+          "rank": "9",
+          "rankMin": 9,
+          "rankMax": 9,
+          "status": "exact",
+          "score": 57.9,
+          "indicators": {
+            "Total Score": 57.9,
+            "Score on Alumni": 53.9,
+            "Score on Award": 69.1,
+            "Score on HiCi": 39.3,
+            "Score on N&S": 56.6,
+            "Score on PUB": 42.1,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2021",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2022,
+          "rank": "9",
+          "rankMin": 9,
+          "rankMax": 9,
+          "status": "exact",
+          "score": 56.1,
+          "indicators": {
+            "Total Score": 56.1,
+            "Score on Alumni": 56,
+            "Score on Award": 66.3,
+            "Score on HiCi": 32.8,
+            "Score on N&S": 56.7,
+            "Score on PUB": 40.6,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2022",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2023,
+          "rank": "9",
+          "rankMin": 9,
+          "rankMax": 9,
+          "status": "exact",
+          "score": 54.5,
+          "indicators": {
+            "Total Score": 54.5,
+            "Score on Alumni": 56.1,
+            "Score on Award": 63.4,
+            "Score on HiCi": 28.7,
+            "Score on N&S": 57.3,
+            "Score on PUB": 37.6,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2023",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2024,
+          "rank": "8",
+          "rankMin": 8,
+          "rankMax": 8,
+          "status": "exact",
+          "score": 55.1,
+          "indicators": {
+            "Total Score": 55.1,
+            "Score on Alumni": 55.7,
+            "Score on Award": 63.4,
+            "Score on HiCi": 29.8,
+            "Score on N&S": 57.9,
+            "Score on PUB": 41,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2024",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2025,
+          "rank": "9",
+          "rankMin": 9,
+          "rankMax": 9,
+          "status": "exact",
+          "score": 55.5,
+          "indicators": {
+            "Total Score": 55.5,
+            "Score on Alumni": 54.7,
+            "Score on Award": 62.1,
+            "Score on HiCi": 31.6,
+            "Score on N&S": 58.7,
+            "Score on PUB": 39.5,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2025",
+          "retrieved": "2026-10-18"
+        },
+        {
+          "year": 2026,
+          "rank": "10",
+          "rankMin": 10,
+          "rankMax": 10,
+          "status": "exact",
+          "score": 56.8,
+          "indicators": {
+            "Total Score": 56.8,
+            "Score on Alumni": 54.2,
+            "Score on Award": 62.1,
+            "Score on HiCi": 36.8,
+            "Score on N&S": 59.1,
+            "Score on PUB": 37.4,
+            "Score on PCP": 100
+          },
+          "sourceUrl": "https://www.shanghairanking.com/universities/california-institute-of-technology",
+          "annualTableUrl": "https://www.shanghairanking.com/rankings/arwu/2026",
+          "retrieved": "2026-10-18"
+        }
+      ],
+      "color": "#a7b8c0",
+      "group": "United States"
+    }
+  ]
+}
